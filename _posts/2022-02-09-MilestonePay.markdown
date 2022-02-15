@@ -16,4 +16,4 @@ What’s beautiful, but gives a UX designer nightmares?
 
 ---
 
-![work in progress](./img/shared/wip.png)
+![work in progress](./img/Shared/wip.png)
