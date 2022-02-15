@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-02-15T11:13:10+11:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Sirisha Vemuri</title>
+  
+
+  
+    <subtitle>Sirisha Vemuri, A UI/UX Designer&apos;s Portfolio</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Fitnessme Mobile App</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Fitnessme Mobile App" />
+      <published>2022-01-28T00:00:00+11:00</published>
+      <updated>2022-01-28T00:00:00+11:00</updated>
+      <id>http://localhost:4000/FitnessMe-Mobile-App</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;em&gt;One in three Australians have gained weight during the pandemic!&lt;/em&gt;
+I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the &lt;strong&gt;Double Diamond&lt;/strong&gt; approach to obtain a solution for this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./img/Shared/DoubleDiamond.png&quot; alt=&quot;Double Diamond&quot; class=&quot;img-responsive&quot; /&gt;
+Click through the tabs below to see the details of each phase.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul class=&quot;nav nav-tabs nav-justified nav-fill&quot;&gt;
+  &lt;li class=&quot;active&quot;&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover&quot;&gt;Discover&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Define&quot;&gt;Define&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Develop&quot;&gt;Develop&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Deliver&quot;&gt;Deliver&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;tab-content model-body&quot;&gt;
+  &lt;div id=&quot;Discover&quot; class=&quot;tab-pane fade in active&quot;&gt;
+    &lt;br /&gt;
+    &lt;p&gt;
+      &lt;em&gt;Understanding the problem space&lt;/em&gt;
+    &lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Project Scoping&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;In order to determine all the parameters; including any goals, assumptions, potential risks, and constraints, I have developed this project canvas at the start of the project.&lt;/p&gt;
+    &lt;img src=&quot;./img/FitnessMe/ProjectScope.png&quot; class=&quot;img-responsive&quot; alt=&quot;Project Scope&quot; /&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Problem Statement&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Covid has changed lives. &lt;br /&gt;Given the scenario that most of us were staying at home, we could not get enough exercise, some of us have put ona few extra kilos. This research is to understand how covid weight gain has affected one`s overall health, and the steps they are taking to get back to their previous &lt;strong&gt;&quot;you&quot;&lt;/strong&gt;! &lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;RESEARCH PLAN&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;I have chalked out a research plan, on how to solve the Problem Statement. Three types of research techniques were used. Click through the tabs below for more details about each of the research technique.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;ul class=&quot;nav nav-tabs nav-justified&quot;&gt;
+      &lt;li class=&quot;active&quot;&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#desktopresearch&quot;&gt;Desktop Research&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#quantitative&quot;&gt;Quantitative&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#qualitative&quot;&gt;Qualitative&lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class=&quot;tab-content&quot;&gt;
+      &lt;div id=&quot;desktopresearch&quot; class=&quot;tab-pane fade in active&quot;&gt;
+        &lt;br /&gt;
+        &lt;p&gt;I did google search on the topic “Covid Weight Gain” and found the below critical information:&lt;/p&gt;
+        &lt;br /&gt;
+        &lt;ul align=&quot;left&quot;&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;One in three Australians have gained weight during the pandemic&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;A new study by Australia&apos;s national science agency, CSIRO, has found that weight and emotional wellbeing has suffered throughout the COVID-19 lockdown, with Australians also feeling concerned about how long it will take for life to return to &quot;normal&quot;.&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;
+              &lt;a href=&quot;https://www.sciencedirect.com/journal/obesity-research-and-clinical-practice/vol/14/issue/4&quot;&gt;An Aussie study&lt;/a&gt; looking at the impact of lockdown on at-home weight loss showed 60% of people surveyed believed their diet had been affected, and 52% said the same about their exercise routine.
+            &lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;br /&gt;
+        &lt;p&gt;Below are some of the articles which I referred to:&lt;/p&gt;
+        &lt;ul align=&quot;left&quot;&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;
+              &lt;a href=&quot;https://www.news-medical.net/news/20200616/CSIRO-study-on-the-effects-of-COVID-19-on-weight-and-well-being.aspx&quot;&gt;CSIRO study on the effects of COVID-19 on weight and well being&lt;/a&gt;
+            &lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;
+              &lt;a href=&quot;https://www.hcf.com.au/health-agenda/body-mind/physical-health/pandemic-weight-gain-lockdown&quot;&gt;Pandemic Weight Gain: How to get on top of it&lt;/a&gt;
+            &lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;br /&gt;
+        &lt;p&gt;As a part of Research, I wanted to know what is the current trend on the topic “covid weight gain” and so analysed this information via &lt;strong&gt;Google Trends&lt;/strong&gt; and found out that the interest over time was increasing. &lt;/p&gt;
+        &lt;img src=&quot;./img/FitnessMe/googletrends.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;quantitative&quot; class=&quot;tab-pane fade&quot;&gt;
+        &lt;br /&gt;
+        &lt;p&gt;There were 11 participants who took part in the survey. Below are the insights drawn:&lt;/p&gt;
+        &lt;br /&gt;
+        &lt;ol align=&quot;left&quot;&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;72.7% of women were feeling low because of the weight gain&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;Most of the survey participants snack even if they are not hungry&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;Almost all the participants have gained weight&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;Surprisingly all the women who took part in the survey felt less confident about how they look and feel&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;Most of the women in their 30s said that losing weight is important to bring their confidence back&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;Most of the men were quite confident during the pandemic, even after gaining weight.&lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;br /&gt;
+        &lt;p&gt; Details of the survey in the carousel below.&lt;/p&gt;
+        &lt;br /&gt;
+        &lt;div id=&quot;myCarousel1&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+          &lt;!-- Indicators --&gt;
+          &lt;ol class=&quot;carousel-indicators&quot;&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
+            &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;
+          &lt;/ol&gt;
+          &lt;!-- Wrapper for slides --&gt;
+          &lt;div class=&quot;carousel-inner&quot;&gt;
+            &lt;div class=&quot;item active&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/age.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/gender.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/weight.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/confidence.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/answer.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/exercise.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/outdooractivity.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/snack.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;item&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/pollexercise.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- Left and right controls --&gt;
+          &lt;a class=&quot;left carousel-control&quot; href=&quot;#myCarousel1&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;span class=&quot;carousel-control-prev-icon&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+          &lt;/a&gt;
+          &lt;a class=&quot;right carousel-control&quot; href=&quot;#myCarousel1&quot; data-slide=&quot;next&quot;&gt;
+            &lt;span class=&quot;carousel-control-next-icon&quot;&gt;&lt;/span&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;qualitative&quot; class=&quot;tab-pane fade&quot;&gt;
+        &lt;br /&gt;
+        &lt;p&gt;I gathered more information and began to understand the insights better when I started talking to people by conducting one-on-one interviews. I interviewed &lt;strong&gt;1 participant in-person, and 4 participants on zoom calls&lt;/strong&gt;. &lt;/p&gt;
+        &lt;br /&gt;
+        &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/interview_1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/interview_2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/interview_3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div id=&quot;Define&quot; class=&quot;tab-pane fade&quot;&gt;
+    &lt;br /&gt;
+    &lt;p&gt;
+      &lt;em&gt;Using Research to create insights and understanding the pain points.&lt;/em&gt;
+    &lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Affinity Map&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;I started organising the research data and synthesised them into logical groups and further divided them into subgroups.&lt;/p&gt;
+    &lt;img src=&quot;./img/FitnessMe/AffinityMap.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Key Insights&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;These insights became the inputs to the Ideation process.&lt;/p&gt;
+    &lt;ul align=&quot;left&quot;&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Women in their 30s are most affected.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Almost all of the participants have gained weight, but women had lost their confidence after gaining weight.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Surprisingly, most of the men who have gained weight during the pandemic did not lose their confidence.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Some of the participants felt that exercising was ridiculous and needed motivation.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;They cancelled gym subscription as it was expensive.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;In order to have good mental health, and gain confidence back, participants wanted to exercise.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Empathy Map&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Synthesising the data obtained from surveys and one-on-one interviews. The key insights were fed into the Empathy Map.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;img src=&quot;./img/FitnessMe/EmpathyMap.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Archetype&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;I have interviewed five people, and the common characteristics in them is summarized as &lt;strong&gt;Chloe! &lt;/strong&gt;. &lt;br /&gt; Meet Chloe, a Software professional, and know more about her health journey, goals and problems, she has encountered during the pandemic. &lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Persona&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Chloe&lt;/strong&gt; is a software professional who gained weight during pandemic which has affected her overall health and well-being. She is trying to gain her confidence back and start feeling good about herself again. &lt;br /&gt;
+      &lt;br /&gt;
+      &lt;em&gt;&quot;Making my body a temple&quot;&lt;/em&gt; was my mantra, &lt;br /&gt;
+      &lt;br /&gt;
+      &lt;em&gt;&quot;I forget what happened yesterday and believe in hope for tomorrow&quot;&lt;/em&gt; are some of the quotes which Chloe referred to.
+    &lt;/p&gt;
+    &lt;br /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Persona.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Customer Journey Map&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Now, lets have a look at Chloe&apos;s journey. &lt;br /&gt;
+      &lt;br /&gt;Chloe was working from home for long hours and was followoing an improper diet, and so she gained weight. Chloe now decided to lose weight and tried to go to the gym. Chloe could not attend the gym during lockdown period. &lt;br /&gt;
+      &lt;br /&gt;In the meantime, she lost her job. She cancelled her gym membership as she couldnot afford it. She instead downloaded a calorie tracker app on her phone and lost some weight and is keen on losing a few extra kilos. &lt;br /&gt;
+      &lt;br /&gt;But, she found out that there were no exciting recipes listed in the app she was using, and also she needed motivation to do exercise and follow the workouts listed in the app in order to lose weight.
+    &lt;/p&gt;
+    &lt;br /&gt;
+    &lt;img src=&quot;./img/FitnessMe/CustomerJourney Map.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+  
+  &lt;div id=&quot;Develop&quot; class=&quot;tab-pane fade&quot;&gt;
+    &lt;br /&gt;
+    &lt;p&gt;
+      &lt;em&gt;Develop effective solutions which address the pain points using an iterative approach&lt;/em&gt;
+    &lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;How Might we (HMW)&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;After analyzing insights from the Research, I have carefully considered all of Chloe`s pain points and derived the below HMWs.&lt;/p&gt;
+    &lt;ul align=&quot;left&quot;&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;HMW - help Chloe gain her confidence back?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;HMW - help Chloe find online classes offered in her gym during the lockdown interesting and not to quit the gym instead?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;HMW - help Chloe in letting her know about the exact number of calories used in her recipe, and also browse through some exciting recipes?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;HMW - help Chloe to keep her motivated in continuing her exercise?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;IDEATION Workshops&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;I have conducted an Ideation workshop in Miro, always thinking about the problem statement and pain points of the persona &quot;Chloe&quot;. I used &lt;strong&gt;Crazy 8`s&lt;/strong&gt; and &lt;strong&gt;Storyboard Brainstorming&lt;/strong&gt; techniques to help with the ideation and solutions. There were 4 Participants who helped Chloe obtain solution, which she would be happy with. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Crazy 8s Report&lt;/strong&gt; &lt;/p&gt;
+    &lt;img src=&quot;./img/FitnessMe/Crazy8s.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Ideation Workshop was fun . Below are some of the happy faces.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;div class=&quot;row&quot;&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;col-md-4&quot;&gt;
+            &lt;div class=&quot;thumbnail&quot;&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation4.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;br /&gt;
+     &lt;p&gt;Storyboard and it&apos;s report&lt;/p&gt;
+     &lt;img src=&quot;./img/FitnessMe/StoryboardChloe.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+     &lt;img src=&quot;./img/FitnessMe/StoryboardReport.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+     &lt;hr /&gt;
+     &lt;h4&gt;Minimum Viable Product&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Options from both top quadrants of the MVP were chosen to fulfil client brief and the desires of Chloe.
+    &lt;img src=&quot;./img/FitnessMe/MVP.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;br /&gt;
+    The solution was to have an all in one app, which would give Chloe an option to log calories, get a few motivational articles, get rewards for winning in challenges which she wishes to participate in. She can also invite her friends to this app to have an offline conversation about what she has won. Also, she would be getting notifications about articles related to workouts, healthy food habits.
+    &lt;/p&gt;
+    &lt;hr /&gt;
+     &lt;h4&gt;User Flows&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Below User Flows have been designed, keeping in view of the solution of an app, proposed in the MVP for Chloe.
+    &lt;img src=&quot;./img/FitnessMe/UserFlows.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div id=&quot;Deliver&quot; class=&quot;tab-pane fade&quot;&gt;
+     &lt;br /&gt;
+    &lt;p&gt;
+      &lt;em&gt;Build and test the solution&lt;/em&gt;
+    &lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;Low Fidelity wireframes&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.&lt;/p&gt;
+    &lt;hr /&gt;
+    &lt;h4&gt;Medium Fidelity Wireframes&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;hr /&gt;
+        &lt;h4&gt;High Fidelity Wireframes&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;I tested the High Fidelity Wireframes, twice, with 4 Chloes. This is the document that I used to plan my tests and the set of tasks I had them complete. One of the Chloe also tested the app on mobile.&lt;/p&gt;
+    &lt;br /&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/100.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/101.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/102.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/103.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/104.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/105.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/106.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/107.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/108.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/109.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/110.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/111.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/112.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/113.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/114.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/115.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/116.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/117.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/118.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/119.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/120.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/121.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/122.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/123.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/124.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/125.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/126.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/127.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/128.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/129.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/130.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/131.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/132.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/133.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/135.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;.//img/FitnessMe/Mockups/136.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+    &lt;p&gt;What did Chloes like?&lt;/p&gt;
+    &lt;ul align=&quot;left&quot;&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Chloes loved the app. They found the app easy to navigate.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;The overall feedback was positive, with Chloes stating that they would download this app to lose weight.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Chloes loved the &quot;Rewards&quot; in the app when she gets an achievement.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Chloes felt that the app was quite motivating, which is the primary pain point for Chloe.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Feedback from User Testing&lt;/p&gt;
+    &lt;ul align=&quot;left&quot;&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Change of some colors&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Change of the size of icons&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Inclusion of a Back button in one screen&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;hr /&gt;
+        &lt;h4&gt;Next Steps&lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;Following are some of the next steps for this project:&lt;/p&gt;
+        &lt;ul align=&quot;left&quot;&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Further development into the High fidelity application.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;To know  how are the Chloe`s using the app, when it is live.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li align=&quot;left&quot;&gt;
+        &lt;p&gt;Possibility of creating more personas with further research.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Interface, User Experience" />
+      
+
+      
+
+      
+        <summary type="html">One in three Australians have gained weight during the pandemic! I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the Double Diamond approach to obtain a solution for this.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
