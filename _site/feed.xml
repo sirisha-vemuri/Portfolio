@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-02-15T14:20:54+11:00</updated>
+  <updated>2022-02-15T16:49:43+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -22,8 +22,8 @@
     <entry>
       <title type="html">Fitnessme Mobile App</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Fitnessme Mobile App" />
-      <published>2022-01-28T00:00:00+11:00</published>
-      <updated>2022-01-28T00:00:00+11:00</updated>
+      <published>2022-01-17T00:00:00+11:00</published>
+      <updated>2022-01-17T00:00:00+11:00</updated>
       <id>http://localhost:4000/FitnessMe-Mobile-App</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;em&gt;One in three Australians have gained weight during the pandemic!&lt;/em&gt;
 I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the &lt;strong&gt;Double Diamond&lt;/strong&gt; approach to obtain a solution for this.&lt;/p&gt;
@@ -887,6 +887,48 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
 
       
         <summary type="html">One in three Australians have gained weight during the pandemic! I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the Double Diamond approach to obtain a solution for this.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Milestone Pay</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Milestone Pay" />
+      <published>2021-02-09T00:00:00+11:00</published>
+      <updated>2021-02-09T00:00:00+11:00</updated>
+      <id>http://localhost:4000/Milestone-Pay</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+
+&lt;p&gt;What’s beautiful, but gives a UX designer nightmares?&lt;/p&gt;
+
+&lt;h2 id=&quot;waterfalls&quot;&gt;Waterfall(s)&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;./img/shared/wip.png&quot; alt=&quot;work in progress&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Interface, User Experience" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
       
 
       

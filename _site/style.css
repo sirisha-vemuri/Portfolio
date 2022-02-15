@@ -290,7 +290,7 @@ section.success {
 .btn-outline.active {
     border: solid 2px #fff;
     color: #395ab8;
-    background: #fff;
+    /*background: #fff;*/
 }
 
 .floating-label-form-group {

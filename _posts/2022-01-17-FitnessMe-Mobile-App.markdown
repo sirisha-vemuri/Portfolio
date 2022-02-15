@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2022-01-28
+date: 2022-01-17
 img: FitnessMe.png
 alt: FitnessMe Mobile App
 project-date: January 2022
