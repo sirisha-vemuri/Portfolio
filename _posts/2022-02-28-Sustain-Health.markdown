@@ -6,7 +6,7 @@ img: SustainHealth.png
 alt: SustainHealth.png
 project-date: February 2022
 client: Sustain Health
-category: User Interface, User Experience
+category: User Experience, User Interface
 description:
 ---
 

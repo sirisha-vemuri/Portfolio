@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-02-15T17:30:43+11:00</updated>
+  <updated>2022-02-15T17:33:56+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -958,7 +958,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
       </author>
 
       
-        <category term="User Interface, User Experience" />
+        <category term="User Experience, User Interface" />
       
 
       
