@@ -8,6 +8,7 @@ project-date: February 2022
 client: MilestonePay
 category: User Experience, User Interface
 description:
+name: MilestonePay
 ---
 
 What’s beautiful, but gives a UX designer nightmares?

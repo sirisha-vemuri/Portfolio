@@ -8,6 +8,7 @@ project-date: January 2022
 client: Academy Xi
 category: User Experience, User Interface
 description:
+name: FitnessMe Mobile App
 ---
 
 _One in three Australians have gained weight during the pandemic!_
