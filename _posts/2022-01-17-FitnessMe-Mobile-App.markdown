@@ -6,7 +6,7 @@ img: FitnessMe.png
 alt: FitnessMe Mobile App
 project-date: January 2022
 client: Academy Xi
-category: User Interface, User Experience
+category: User Experience, User Interface
 description:
 ---
 

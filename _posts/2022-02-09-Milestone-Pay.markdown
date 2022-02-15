@@ -6,10 +6,8 @@ img: MilestonePay.png
 alt: MilestonePay.png
 project-date: February 2022
 client: Milestone Pay
-category: User Interface, User Experience
+category: User Experience, User Interface
 description:
----
-
 ---
 
 What’s beautiful, but gives a UX designer nightmares?
