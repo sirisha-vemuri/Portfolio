@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-02-15T13:22:28+11:00</updated>
+  <updated>2022-02-15T13:33:15+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -388,16 +388,27 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
     &lt;hr /&gt;
     &lt;h4&gt;Low Fidelity wireframes&lt;/h4&gt;
     &lt;br /&gt;
-    &lt;p&gt;As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.&lt;/p&gt;
+    &lt;p&gt;As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.
+    &lt;img src=&quot;./img/FitnessMe/LowFidelity.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;/p&gt;
     &lt;hr /&gt;
     &lt;h4&gt;Medium Fidelity Wireframes&lt;/h4&gt;
     &lt;br /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Medium1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Medium2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Medium3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
     &lt;hr /&gt;
         &lt;h4&gt;High Fidelity Wireframes&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;I tested the High Fidelity Wireframes, twice, with 4 Chloes. This is the document that I used to plan my tests and the set of tasks I had them complete. One of the Chloe also tested the app on mobile.&lt;/p&gt;
     &lt;br /&gt;
       &lt;div class=&quot;row&quot;&gt;
+        
+          
+        
+          
+        
+          
         
           
         

@@ -373,10 +373,15 @@ Click through the tabs below to see the details of each phase.
     <hr>
     <h4>Low Fidelity wireframes</h4>
     <br>
-    <p>As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.</p>
+    <p>As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.
+    <img src="./img/FitnessMe/LowFidelity.png" class="img-responsive" style="width:100%">
+    </p>
     <hr>
     <h4>Medium Fidelity Wireframes</h4>
     <br>
+    <img src="./img/FitnessMe/Medium1.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/Medium2.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/Medium3.png" class="img-responsive" style="width:100%">
     <hr>
         <h4>High Fidelity Wireframes</h4>
     <br>
