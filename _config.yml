@@ -1,7 +1,7 @@
 # Site settings
 title: Sirisha Vemuri
 email: vemuri.sirisha@gmail.com
-url: https://cgvrtest1.github.io/new/
+url: https://sirisha-vemuri.github.io/portfolio/
 description: "Sirisha Vemuri, A UI/UX Designer's Portfolio"
 keywords: "UI,UX"
 skills: "User Interface Designer - User Experience Designer"
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 395ab8 #2a9cde #873E8B #18bc9c #80B3FF
-  primary-rgb: "120, 147, 222" #"255, 213, 24" #"24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 2c3e50 #233140 #A2122F
+  primary: 395ab8 
+  primary-rgb: "120, 147, 222"
+  secondary: 2c3e50
+  secondary-dark: 2c3e50
 
 # Footer settings
 footer:
