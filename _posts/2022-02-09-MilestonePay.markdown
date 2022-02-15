@@ -5,7 +5,7 @@ date: 2021-02-09
 img: MilestonePay.png
 alt: MilestonePay.png
 project-date: February 2022
-client: Milestone Pay
+client: MilestonePay
 category: User Experience, User Interface
 description:
 ---

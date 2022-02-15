@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-02-15T17:21:46+11:00</updated>
+  <updated>2022-02-15T17:27:28+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -894,11 +894,11 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
     </entry>
   
     <entry>
-      <title type="html">Milestone Pay</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Milestone Pay" />
+      <title type="html">Milestonepay</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Milestonepay" />
       <published>2021-02-09T00:00:00+11:00</published>
       <updated>2021-02-09T00:00:00+11:00</updated>
-      <id>http://localhost:4000/Milestone-Pay</id>
+      <id>http://localhost:4000/MilestonePay</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;What’s beautiful, but gives a UX designer nightmares?&lt;/p&gt;
 
 &lt;h2 id=&quot;waterfalls&quot;&gt;Waterfall(s)&lt;/h2&gt;
@@ -927,6 +927,44 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
 
       
         <summary type="html">What’s beautiful, but gives a UX designer nightmares?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sustain Health</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sustain Health" />
+      <published>2020-02-07T00:00:00+11:00</published>
+      <updated>2020-02-07T00:00:00+11:00</updated>
+      <id>http://localhost:4000/Sustain-Health</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;A user interface is like a Joke. If you have to explain it, it’s not that good.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;./img/shared/wip.png&quot; alt=&quot;work in progress&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Interface, User Experience" />
+      
+
+      
+
+      
+        <summary type="html">A user interface is like a Joke. If you have to explain it, it’s not that good.</summary>
       
 
       
