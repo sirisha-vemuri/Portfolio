@@ -20,16 +20,16 @@ Click through the tabs below to see the details of each phase.
 <br>
 <ul class="nav nav-tabs nav-justified nav-fill">
   <li class="active">
-    <a data-toggle="tab" href="#Discover">Discover</a>
+    <a data-toggle="tab" href="#Discover"><u>Discover</u></a>
   </li>
   <li>
-    <a data-toggle="tab" href="#Define">Define</a>
+    <a data-toggle="tab" href="#Define"><u>Define</u></a>
   </li>
   <li>
-    <a data-toggle="tab" href="#Develop">Develop</a>
+    <a data-toggle="tab" href="#Develop"><u>Develop</u></a>
   </li>
   <li>
-    <a data-toggle="tab" href="#Deliver">Deliver</a>
+    <a data-toggle="tab" href="#Deliver"><u>Deliver</u></a>
   </li>
 </ul>
 
@@ -61,13 +61,13 @@ Click through the tabs below to see the details of each phase.
     <br>
     <ul class="nav nav-tabs nav-justified">
       <li class="active">
-        <a data-toggle="tab" href="#desktopresearch">Desktop Research</a>
+        <a data-toggle="tab" href="#desktopresearch"><u>Desktop Research</u></a>
       </li>
       <li>
-        <a data-toggle="tab" href="#quantitative">Quantitative</a>
+        <a data-toggle="tab" href="#quantitative"><u>Quantitative</u></a>
       </li>
       <li>
-        <a data-toggle="tab" href="#qualitative">Qualitative</a>
+        <a data-toggle="tab" href="#qualitative"><u>Qualitative</u></a>
       </li>
     </ul>
     <div class="tab-content">
