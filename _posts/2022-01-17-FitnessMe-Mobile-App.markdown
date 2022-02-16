@@ -135,7 +135,7 @@ Click through the tabs below to see the details of each phase.
         <br>
         <div id="myCarousel1" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
-          <ol class="carousel-indicators">
+          <ol class="carousel-indicators visible-lg">
             <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel1" data-slide-to="1"></li>
             <li data-target="#myCarousel1" data-slide-to="2"></li>
@@ -148,43 +148,42 @@ Click through the tabs below to see the details of each phase.
             <li data-target="#myCarousel1" data-slide-to="9"></li>
           </ol>
           <!-- Wrapper for slides -->
-          <div class="carousel-inner">
+          <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="./img/FitnessMe/age.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/age.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/gender.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/gender.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/weight.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/weight.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/confidence.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/confidence.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/answer.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/answer.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/exercise.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/exercise.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/outdooractivity.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/outdooractivity.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/snack.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/snack.png" class="img-responsive">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/pollexercise.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/pollexercise.png" class="img-responsive">
             </div>
           </div>
           <!-- Left and right controls -->
-          <a class="left carousel-control" href="#myCarousel1" data-slide="prev">
-            <span class="carousel-control-prev-icon"></span>
-            <span class="sr-only">Previous</span>
+          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+          <a class="left slide-control" href="#myCarousel1" data-slide="prev">
+            <i class="fa fa-angle-left"></i>
           </a>
-          <a class="right carousel-control" href="#myCarousel1" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
-            <span class="sr-only">Next</span>
+          <a class="right slide-control" href="#myCarousel1" data-slide="next">
+            <i class="fa fa-angle-right"></i>
           </a>
         </div>
       </div>

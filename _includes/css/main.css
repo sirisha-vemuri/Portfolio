@@ -491,3 +491,18 @@ footer .footer-below {
   font-style: oblique;
   font-weight: bold;
 }
+
+
+.slide-control{
+    color:#{{ site.color.primary }};
+    font-size:60px;
+    left:30px;
+    margin-top:-70px;
+    position:absolute;
+    top:50%;
+}
+
+.slide-control.right{
+    left:auto;
+    right:30px;
+}
