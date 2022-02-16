@@ -297,7 +297,8 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #{{ site.color.secondary }};
+    /*rgb(158, 29, 29);*/
 }
 
 .floating-label-form-group input,
@@ -505,4 +506,12 @@ footer .footer-below {
 .slide-control.right{
     left:auto;
     right:30px;
+}
+
+.myimg{
+    opacity: 0;
+}
+
+.sentence {
+  text-transform: capitalize;
 }
