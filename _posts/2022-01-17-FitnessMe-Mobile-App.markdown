@@ -387,12 +387,13 @@ Click through the tabs below to see the details of each phase.
     <br>
     <p>I tested the High Fidelity Wireframes, twice, with 4 Chloes. This is the document that I used to plan my tests and the set of tasks I had them complete. One of the Chloe also tested the app on mobile.</p>
     <br>
-      <div class="row">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/ZpKKsGOpO1Y" frameborder="0" allowfullscreen></iframe>
+      <div class="row" style="margin-top: 50px;">
         {% for image in site.static_files %}
           {% if image.path contains 'FitnessMe/Mockups' %}
             <div class="col-md-2">
               <div class="thumbnail">
-                <img src="./{{ image.path }}" class="img-responsive" style="width:100%">
+                <img src=".{{ image.path }}" class="img-responsive" style="width:100%">
               </div>
             </div>
           {% endif %}
