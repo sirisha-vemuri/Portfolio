@@ -1,0 +1,48 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+timeline:
+  title: "Timeline"
+  text: "Lorem ipsum timeline"
+  section: timeline
+  # left is the default
+  start_align: "left"
+  events:
+   - title: "Academy Xi"
+     year: "Nov 2021 - Till Date"
+     desc: "Full Time student pursuing **UX and UI Transform** course"
+     image: academyxi.png
+     alt:
+     # you can enforce the alignment
+     align: 
+   - title: "Studio Bravo"
+     year: "Aug 2021 - Oct 2021"
+     desc: "Worked as a **Software Tester**"
+     image: bravostudio.png
+     alt:
+     # you can enforce the alignment
+     align: 
+   - title: "Career Break"
+     year: "Oct 2013 - Aug 2021"
+     desc: "Took career break. Now mother of to 2 boys"
+     image: careerbreak.png
+     alt:
+   - title: "IBM India"
+     year: "Jun 2008 - Sep 2013"
+     desc: "Worked in various roles - **Software Engineer, Module Lead, Designer, Software tester**"
+     image: ibm.png
+     alt:
+   - title: "Bachelor of Engineering"
+     year: "Jun 2004 - May 2008"
+     desc: "Jawaharlal Nehru Technological University, Hyderabad, India"
+     image: jntu.png
+     alt:
+  end:
