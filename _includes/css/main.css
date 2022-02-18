@@ -560,7 +560,7 @@ footer .footer-below {
 	 width: 5px;
 	 margin-left: -1.5px;
 	 content: "";
-	 background-color: #{{ site.color.secondary }};
+	 background-color: #fff;
 }
  .timeline > li {
 	 position: relative;
