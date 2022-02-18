@@ -45,7 +45,7 @@ Click through the tabs below to see the details of each phase.
     </h4>
     <br>
     <p>In order to determine all the parameters; including any goals, assumptions, potential risks, and constraints, I have developed this project canvas at the start of the project.</p>
-    <img src="./img/FitnessMe/ProjectScope.png" class="img-responsive" alt="Project Scope">
+    <img src="./img/FitnessMe/ProjectScope.png" class="img-responsive" alt="Project Scope" loading="lazy">
     <hr>
     <h4>
       <b>Problem Statement</b>
@@ -104,7 +104,7 @@ Click through the tabs below to see the details of each phase.
         </ul>
         <br>
         <p>As a part of Research, I wanted to know what is the current trend on the topic “covid weight gain” and so analysed this information via <strong>Google Trends</strong> and found out that the interest over time was increasing. </p>
-        <img src="./img/FitnessMe/googletrends.png" class="img-responsive" style="width:100%">
+        <img src="./img/FitnessMe/googletrends.png" class="img-responsive" style="width:100%" loading="lazy">
       </div>
       <div id="quantitative" class="tab-pane fade">
         <br>
@@ -150,31 +150,31 @@ Click through the tabs below to see the details of each phase.
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="./img/FitnessMe/age.png" class="img-responsive">
+              <img src="./img/FitnessMe/age.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/gender.png" class="img-responsive">
+              <img src="./img/FitnessMe/gender.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/weight.png" class="img-responsive">
+              <img src="./img/FitnessMe/weight.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/confidence.png" class="img-responsive">
+              <img src="./img/FitnessMe/confidence.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/answer.png" class="img-responsive">
+              <img src="./img/FitnessMe/answer.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/exercise.png" class="img-responsive">
+              <img src="./img/FitnessMe/exercise.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/outdooractivity.png" class="img-responsive">
+              <img src="./img/FitnessMe/outdooractivity.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/snack.png" class="img-responsive">
+              <img src="./img/FitnessMe/snack.png" class="img-responsive" loading="lazy">
             </div>
             <div class="item">
-              <img src="./img/FitnessMe/pollexercise.png" class="img-responsive">
+              <img src="./img/FitnessMe/pollexercise.png" class="img-responsive" loading="lazy">
             </div>
           </div>
           <!-- Left and right controls -->
@@ -194,17 +194,17 @@ Click through the tabs below to see the details of each phase.
         <div class="row">
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/interview_1.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/interview_1.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/interview_2.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/interview_2.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/interview_3.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/interview_3.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
         </div>
@@ -222,7 +222,7 @@ Click through the tabs below to see the details of each phase.
     </h4>
     <br>
     <p>I started organising the research data and synthesised them into logical groups and further divided them into subgroups.</p>
-    <img src="./img/FitnessMe/AffinityMap.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/AffinityMap.png" class="img-responsive" style="width:100%" loading="lazy">
     <hr>
     <h4>
       <b>Key Insights</b>
@@ -256,7 +256,7 @@ Click through the tabs below to see the details of each phase.
     <br>
     <p>Synthesising the data obtained from surveys and one-on-one interviews. The key insights were fed into the Empathy Map.</p>
     <br>
-    <img src="./img/FitnessMe/EmpathyMap.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/EmpathyMap.png" class="img-responsive" style="width:100%" loading="lazy">
     <hr>
     <h4>
       <b>Archetype</b>
@@ -276,7 +276,7 @@ Click through the tabs below to see the details of each phase.
       <em>"I forget what happened yesterday and believe in hope for tomorrow"</em> are some of the quotes which Chloe referred to.
     </p>
     <br>
-    <img src="./img/FitnessMe/Persona.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/Persona.png" class="img-responsive" style="width:100%" loading="lazy">
     <hr>
     <h4>
       <b>Customer Journey Map</b>
@@ -288,7 +288,7 @@ Click through the tabs below to see the details of each phase.
       <br>But, she found out that there were no exciting recipes listed in the app she was using, and also she needed motivation to do exercise and follow the workouts listed in the app in order to lose weight.
     </p>
     <br>
-    <img src="./img/FitnessMe/CustomerJourney Map.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/CustomerJourney Map.png" class="img-responsive" style="width:100%" loading="lazy">
   </div>
   
   <div id="Develop" class="tab-pane fade">
@@ -318,43 +318,43 @@ Click through the tabs below to see the details of each phase.
     <h4>IDEATION Workshops</h4>
     <br>
     <p>I have conducted an Ideation workshop in Miro, always thinking about the problem statement and pain points of the persona "Chloe". I used <strong>Crazy 8`s</strong> and <strong>Storyboard Brainstorming</strong> techniques to help with the ideation and solutions. There were 4 Participants who helped Chloe obtain solution, which she would be happy with. <br><br><strong>Crazy 8s Report</strong> </p>
-    <img src="./img/FitnessMe/Crazy8s.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/Crazy8s.png" class="img-responsive" style="width:100%" loading="lazy">
     <br>
     <p>Ideation Workshop was fun . Below are some of the happy faces.</p>
     <br>
     <div class="row">
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/ideation1.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/ideation1.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/ideation2.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/ideation2.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/ideation3.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/ideation3.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
           <div class="col-md-4">
           </div>
           <div class="col-md-4">
             <div class="thumbnail">
-              <img src="./img/FitnessMe/ideation4.png" class="img-responsive" style="width:100%">
+              <img src="./img/FitnessMe/ideation4.png" class="img-responsive" style="width:100%" loading="lazy">
             </div>
           </div>
      </div>
      <br>
      <p>Storyboard and it's report</p>
-     <img src="./img/FitnessMe/StoryboardChloe.png" class="img-responsive" style="width:100%">
-     <img src="./img/FitnessMe/StoryboardReport.png" class="img-responsive" style="width:100%">
+     <img src="./img/FitnessMe/StoryboardChloe.png" class="img-responsive" style="width:100%" loading="lazy">
+     <img src="./img/FitnessMe/StoryboardReport.png" class="img-responsive" style="width:100%" loading="lazy">
      <hr>
      <h4>Minimum Viable Product</h4>
     <br>
     <p>Options from both top quadrants of the MVP were chosen to fulfil client brief and the desires of Chloe.
-    <img src="./img/FitnessMe/MVP.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/MVP.png" class="img-responsive" style="width:100%" loading="lazy">
     <br>
     The solution was to have an all in one app, which would give Chloe an option to log calories, get a few motivational articles, get rewards for winning in challenges which she wishes to participate in. She can also invite her friends to this app to have an offline conversation about what she has won. Also, she would be getting notifications about articles related to workouts, healthy food habits.
     </p>
@@ -362,7 +362,7 @@ Click through the tabs below to see the details of each phase.
      <h4>User Flows</h4>
     <br>
     <p>Below User Flows have been designed, keeping in view of the solution of an app, proposed in the MVP for Chloe.
-    <img src="./img/FitnessMe/UserFlows.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/UserFlows.png" class="img-responsive" style="width:100%" loading="lazy">
     </p>
   </div>
   <div id="Deliver" class="tab-pane fade">
@@ -374,14 +374,14 @@ Click through the tabs below to see the details of each phase.
     <h4>Low Fidelity wireframes</h4>
     <br>
     <p>As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.
-    <img src="./img/FitnessMe/LowFidelity.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/LowFidelity.png" class="img-responsive" style="width:100%" loading="lazy">
     </p>
     <hr>
     <h4>Medium Fidelity Wireframes</h4>
     <br>
-    <img src="./img/FitnessMe/Medium1.png" class="img-responsive" style="width:100%">
-    <img src="./img/FitnessMe/Medium2.png" class="img-responsive" style="width:100%">
-    <img src="./img/FitnessMe/Medium3.png" class="img-responsive" style="width:100%">
+    <img src="./img/FitnessMe/Medium1.png" class="img-responsive" style="width:100%" loading="lazy">
+    <img src="./img/FitnessMe/Medium2.png" class="img-responsive" style="width:100%" loading="lazy">
+    <img src="./img/FitnessMe/Medium3.png" class="img-responsive" style="width:100%" loading="lazy">
     <hr>
         <h4>High Fidelity Wireframes</h4>
     <br>
@@ -393,7 +393,7 @@ Click through the tabs below to see the details of each phase.
           {% if image.path contains 'FitnessMe/Mockups' %}
             <div class="col-md-2">
               <div class="thumbnail">
-                <img src=".{{ image.path }}" class="img-responsive" style="width:100%">
+                <img src=".{{ image.path }}" class="img-responsive" style="width:100%" loading="lazy">
               </div>
             </div>
           {% endif %}
