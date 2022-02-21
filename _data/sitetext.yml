@@ -22,7 +22,8 @@ timeline:
      image: academyxi.png
      alt:
      # you can enforce the alignment
-     align: 
+     align:
+     href: "academyxi"
    - title: "Studio Bravo"
      year: "Aug 2021 - Oct 2021"
      desc: "Worked as a **Software Tester**"
@@ -30,19 +31,26 @@ timeline:
      alt:
      # you can enforce the alignment
      align: 
+     href: "studiobravo" 
    - title: "Career Break"
      year: "Oct 2013 - Aug 2021"
      desc: "Took career break. Now Mum to 2 boys"
      image: careerbreak.png
      alt:
+     align: 
+     href: "careerbreak" 
    - title: "IBM India"
      year: "Jun 2008 - Sep 2013"
      desc: "Worked in various roles - **Software Engineer, Module Lead, Designer, Software tester**"
      image: ibm.png
      alt:
+     align: 
+     href: "ibmindia"       
    - title: "Bachelor of Engineering"
      year: "Jun 2004 - May 2008"
      desc: "Jawaharlal Nehru Technological University, Hyderabad, India"
      image: jntu.png
      alt:
+     align: 
+     href: "jntu"       
   end:

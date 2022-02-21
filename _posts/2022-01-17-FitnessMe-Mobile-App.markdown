@@ -3,16 +3,17 @@ layout: default
 modal-id: 1
 date: 2022-01-17
 img: FitnessMe.png
-alt: FitnessMe Mobile App
+alt:
 project-date: January 2022
 client: Academy Xi
 category: User Experience, User Interface
-description:
+description: Academic Project at Academy XI
 name: FitnessMe Mobile App
 ---
 
-_One in three Australians have gained weight during the pandemic!_
-I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the <strong>Double Diamond</strong> approach to obtain a solution for this.
+<p><i>One in three Australians have gained weight during the pandemic!</i></p>
+
+<p>I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the <strong>Double Diamond</strong> approach to obtain a solution for this.</p>
 
 ![Double Diamond](./img/Shared/DoubleDiamond.png){:.img-responsive}
 Click through the tabs below to see the details of each phase.
