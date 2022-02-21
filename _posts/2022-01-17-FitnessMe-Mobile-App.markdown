@@ -40,20 +40,20 @@ Click through the tabs below to see the details of each phase.
     <p>
       <em>Understanding the problem space</em>
     </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Project Scoping</b>
     </h4>
     <br>
     <p>In order to determine all the parameters; including any goals, assumptions, potential risks, and constraints, I have developed this project canvas at the start of the project.</p>
     <img src="./img/FitnessMe/ProjectScope.png" class="img-responsive" alt="Project Scope" loading="lazy">
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Problem Statement</b>
     </h4>
     <br>
     <p>Covid has changed lives. <br>Given the scenario that most of us were staying at home, we could not get enough exercise, some of us have put ona few extra kilos. This research is to understand how covid weight gain has affected one`s overall health, and the steps they are taking to get back to their previous <strong>"you"</strong>! </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>RESEARCH PLAN</b>
     </h4>
@@ -217,14 +217,14 @@ Click through the tabs below to see the details of each phase.
     <p>
       <em>Using Research to create insights and understanding the pain points.</em>
     </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Affinity Map</b>
     </h4>
     <br>
     <p>I started organising the research data and synthesised them into logical groups and further divided them into subgroups.</p>
     <img src="./img/FitnessMe/AffinityMap.png" class="img-responsive" style="width:100%" loading="lazy">
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Key Insights</b>
     </h4>
@@ -250,7 +250,7 @@ Click through the tabs below to see the details of each phase.
         <p>In order to have good mental health, and gain confidence back, participants wanted to exercise.</p>
       </li>
     </ul>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Empathy Map</b>
     </h4>
@@ -258,13 +258,13 @@ Click through the tabs below to see the details of each phase.
     <p>Synthesising the data obtained from surveys and one-on-one interviews. The key insights were fed into the Empathy Map.</p>
     <br>
     <img src="./img/FitnessMe/EmpathyMap.png" class="img-responsive" style="width:100%" loading="lazy">
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Archetype</b>
     </h4>
     <br>
     <p>I have interviewed five people, and the common characteristics in them is summarized as <Strong>Chloe! </strong>. <br> Meet Chloe, a Software professional, and know more about her health journey, goals and problems, she has encountered during the pandemic. </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Persona</b>
     </h4>
@@ -278,7 +278,7 @@ Click through the tabs below to see the details of each phase.
     </p>
     <br>
     <img src="./img/FitnessMe/Persona.png" class="img-responsive" style="width:100%" loading="lazy">
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>
       <b>Customer Journey Map</b>
     </h4>
@@ -297,7 +297,7 @@ Click through the tabs below to see the details of each phase.
     <p>
       <em>Develop effective solutions which address the pain points using an iterative approach</em>
     </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>How Might we (HMW)</h4>
     <br>
     <p>After analyzing insights from the Research, I have carefully considered all of Chloe`s pain points and derived the below HMWs.</p>
@@ -315,7 +315,7 @@ Click through the tabs below to see the details of each phase.
         <p>HMW - help Chloe to keep her motivated in continuing her exercise?</p>
       </li>
     </ul>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>IDEATION Workshops</h4>
     <br>
     <p>I have conducted an Ideation workshop in Miro, always thinking about the problem statement and pain points of the persona "Chloe". I used <strong>Crazy 8`s</strong> and <strong>Storyboard Brainstorming</strong> techniques to help with the ideation and solutions. There were 4 Participants who helped Chloe obtain solution, which she would be happy with. <br><br><strong>Crazy 8s Report</strong> </p>
@@ -351,7 +351,7 @@ Click through the tabs below to see the details of each phase.
      <p>Storyboard and it's report</p>
      <img src="./img/FitnessMe/StoryboardChloe.png" class="img-responsive" style="width:100%" loading="lazy">
      <img src="./img/FitnessMe/StoryboardReport.png" class="img-responsive" style="width:100%" loading="lazy">
-     <hr>
+     <hr style="border-top-color:#8d579c;">
      <h4>Minimum Viable Product</h4>
     <br>
     <p>Options from both top quadrants of the MVP were chosen to fulfil client brief and the desires of Chloe.
@@ -359,7 +359,7 @@ Click through the tabs below to see the details of each phase.
     <br>
     The solution was to have an all in one app, which would give Chloe an option to log calories, get a few motivational articles, get rewards for winning in challenges which she wishes to participate in. She can also invite her friends to this app to have an offline conversation about what she has won. Also, she would be getting notifications about articles related to workouts, healthy food habits.
     </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
      <h4>User Flows</h4>
     <br>
     <p>Below User Flows have been designed, keeping in view of the solution of an app, proposed in the MVP for Chloe.
@@ -371,19 +371,19 @@ Click through the tabs below to see the details of each phase.
     <p>
       <em>Build and test the solution</em>
     </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>Low Fidelity wireframes</h4>
     <br>
     <p>As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.
     <img src="./img/FitnessMe/LowFidelity.png" class="img-responsive" style="width:100%" loading="lazy">
     </p>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
     <h4>Medium Fidelity Wireframes</h4>
     <br>
     <img src="./img/FitnessMe/Medium1.png" class="img-responsive" style="width:100%" loading="lazy">
     <img src="./img/FitnessMe/Medium2.png" class="img-responsive" style="width:100%" loading="lazy">
     <img src="./img/FitnessMe/Medium3.png" class="img-responsive" style="width:100%" loading="lazy">
-    <hr>
+    <hr style="border-top-color:#8d579c;">
         <h4>High Fidelity Wireframes</h4>
     <br>
     <p>I tested the High Fidelity Wireframes, twice, with 4 Chloes. This is the document that I used to plan my tests and the set of tasks I had them complete. One of the Chloe also tested the app on mobile.</p>
@@ -427,7 +427,7 @@ Click through the tabs below to see the details of each phase.
         <p>Inclusion of a Back button in one screen</p>
       </li>
     </ul>
-    <hr>
+    <hr style="border-top-color:#8d579c;">
         <h4>Next Steps</h4>
     <br>
     <p>Following are some of the next steps for this project:</p>

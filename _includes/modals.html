@@ -50,9 +50,11 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">                            
                            -->
                             {% if post.content %}
+                            <span>
                             <div>
                             <p align="left">{{ post.content }}</p>
                             </div>
+                            </span>
                             {% endif %}
                             <button type="button" class="btn btn-lg btn-outline" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
