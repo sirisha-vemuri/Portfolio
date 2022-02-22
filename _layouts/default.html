@@ -2,10 +2,15 @@
 <html>
     {% include head.html %}
     <body id="page-top" class="index">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{site.gatrackingcode}}" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
     {% include nav.html %}
     {% include header.html %}
     {% include portfolio_grid.html %}
     {% include about.html %}
+    {% include resumemodels.html %}
     
 
     {% if site.contact == "static" %}
@@ -21,3 +26,5 @@
     {% include js.html %}
     </body>
 </html>
+
+<!-- To do: - Add scrollbar on portfolio models-->
