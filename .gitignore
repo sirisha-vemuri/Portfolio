@@ -1,3 +1,6 @@
 
-.jekyll-cache/*
-_site/*
+.jekyll-cache/
+_site/
+_site/css/
+_site/img/
+_site/js/
