@@ -17,4 +17,4 @@ What’s beautiful, but gives a UX designer nightmares?
 
 ---
 
-![work in progress](./img/Shared/wip.png)
+<img src="./img/Shared/wip.png" class="img-responsive" loading="lazy">

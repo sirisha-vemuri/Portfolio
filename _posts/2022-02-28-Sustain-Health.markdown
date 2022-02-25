@@ -15,4 +15,4 @@ A user interface is like a Joke. If you have to explain it, it's not that good.
 
 ---
 
-![work in progress](./img/Shared/wip.png)
+<img src="./img/Shared/wip.png" class="img-responsive" loading="lazy">
