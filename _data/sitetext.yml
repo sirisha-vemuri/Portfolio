@@ -16,8 +16,16 @@ timeline:
   # left is the default
   start_align: "left"
   events:
+   - title: "GroupTag"
+     year: "Mar 2021 - Till date"
+     desc: "User Experience Design Intern"
+     image: GroupTag.png
+     alt:
+     # you can enforce the alignment
+     align:
+     href: "academyxi" 
    - title: "Academy Xi"
-     year: "Nov 2021 - Till Date"
+     year: "Nov 2021 - Feb 2021"
      desc: "Full Time student pursuing **UX and UI Transform** course"
      image: academyxi.png
      alt:
