@@ -552,6 +552,8 @@ footer .footer-below {
 }
 
 
+/* timeline */
+
 .timeline {
 	 position: relative;
 	 padding: 0;
@@ -579,6 +581,8 @@ footer .footer-below {
  .timeline > li:after {
 	 clear: both;
 }
+
+
  .timeline > li .timeline-panel {
 	 position: relative;
 	 float: right;
@@ -717,7 +721,8 @@ footer .footer-below {
 		 padding: 0 100px 20px 20px;
 	}
 }
- 
+/*timeline ends here*/
+
 .img-fluid{
     width: 100% \9;
     height:100%
