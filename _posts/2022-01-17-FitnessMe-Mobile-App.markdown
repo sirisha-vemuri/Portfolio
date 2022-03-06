@@ -15,27 +15,27 @@ name: FitnessMe Mobile App
 
 <p>I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the <strong>Double Diamond</strong> approach to obtain a solution for this.</p>
 
-![Double Diamond](./img/Shared/DoubleDiamond.png){:.img-responsive}
+<img src="./img/Shared/DoubleDiamond.png" class="img-responsive img-centered" alt="Double Diamond" loading="lazy">
 Click through the tabs below to see the details of each phase.
 
 <br>
 <ul class="nav nav-tabs nav-justified nav-fill">
   <li class="active">
-    <a data-toggle="tab" href="#Discover"><u>Discover</u></a>
+    <a data-toggle="tab" href="#Discover1"><u>Discover</u></a>
   </li>
   <li>
-    <a data-toggle="tab" href="#Define"><u>Define</u></a>
+    <a data-toggle="tab" href="#Define1"><u>Define</u></a>
   </li>
   <li>
-    <a data-toggle="tab" href="#Develop"><u>Develop</u></a>
+    <a data-toggle="tab" href="#Develop1"><u>Develop</u></a>
   </li>
   <li>
-    <a data-toggle="tab" href="#Deliver"><u>Deliver</u></a>
+    <a data-toggle="tab" href="#Deliver1"><u>Deliver</u></a>
   </li>
 </ul>
 
 <div class="tab-content model-body">
-  <div id="Discover" class="tab-pane fade in active">
+  <div id="Discover1" class="tab-pane fade in active">
     <br>
     <p>
       <em>Understanding the problem space</em>
@@ -62,17 +62,17 @@ Click through the tabs below to see the details of each phase.
     <br>
     <ul class="nav nav-tabs nav-justified">
       <li class="active">
-        <a data-toggle="tab" href="#desktopresearch"><u>Desktop Research</u></a>
+        <a data-toggle="tab" href="#desktopresearch1"><u>Desktop Research</u></a>
       </li>
       <li>
-        <a data-toggle="tab" href="#quantitative"><u>Quantitative</u></a>
+        <a data-toggle="tab" href="#quantitative1"><u>Quantitative</u></a>
       </li>
       <li>
-        <a data-toggle="tab" href="#qualitative"><u>Qualitative</u></a>
+        <a data-toggle="tab" href="#qualitative1"><u>Qualitative</u></a>
       </li>
     </ul>
     <div class="tab-content">
-      <div id="desktopresearch" class="tab-pane fade in active">
+      <div id="desktopresearch1" class="tab-pane fade in active">
         <br>
         <p>I did google search on the topic “Covid Weight Gain” and found the below critical information:</p>
         <br>
@@ -107,7 +107,7 @@ Click through the tabs below to see the details of each phase.
         <p>As a part of Research, I wanted to know what is the current trend on the topic “covid weight gain” and so analysed this information via <strong>Google Trends</strong> and found out that the interest over time was increasing. </p>
         <img src="./img/FitnessMe/googletrends.png" class="img-responsive" style="width:100%" loading="lazy">
       </div>
-      <div id="quantitative" class="tab-pane fade">
+      <div id="quantitative1" class="tab-pane fade">
         <br>
         <p>There were 11 participants who took part in the survey. Below are the insights drawn:</p>
         <br>
@@ -188,7 +188,7 @@ Click through the tabs below to see the details of each phase.
           </a>
         </div>
       </div>
-      <div id="qualitative" class="tab-pane fade">
+      <div id="qualitative1" class="tab-pane fade">
         <br>
         <p>I gathered more information and began to understand the insights better when I started talking to people by conducting one-on-one interviews. I interviewed <strong>1 participant in-person, and 4 participants on zoom calls</strong>. </p>
         <br>
@@ -212,7 +212,7 @@ Click through the tabs below to see the details of each phase.
       </div>
     </div>
   </div>
-  <div id="Define" class="tab-pane fade">
+  <div id="Define1" class="tab-pane fade">
     <br>
     <p>
       <em>Using Research to create insights and understanding the pain points.</em>
@@ -292,7 +292,7 @@ Click through the tabs below to see the details of each phase.
     <img src="./img/FitnessMe/CustomerJourney Map.png" class="img-responsive" style="width:100%" loading="lazy">
   </div>
   
-  <div id="Develop" class="tab-pane fade">
+  <div id="Develop1" class="tab-pane fade">
     <br>
     <p>
       <em>Develop effective solutions which address the pain points using an iterative approach</em>
@@ -366,7 +366,7 @@ Click through the tabs below to see the details of each phase.
     <img src="./img/FitnessMe/UserFlows.png" class="img-responsive" style="width:100%" loading="lazy">
     </p>
   </div>
-  <div id="Deliver" class="tab-pane fade">
+  <div id="Deliver1" class="tab-pane fade">
      <br>
     <p>
       <em>Build and test the solution</em>
