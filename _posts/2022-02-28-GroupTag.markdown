@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 3
+date: 2020-02-07
+img: grouptag.png
+alt: Group Tag
+project-date: February 2022
+client: Group Tag
+category: User Experience, User Interface
+description:
+name: Group Tag
+---
+
+A user interface is like a Joke. If you have to explain it, it's not that good.
+
+---
+
+<img src="./img/Shared/wip.png" class="img-responsive" loading="lazy">
