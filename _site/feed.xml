@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-02-15T17:33:56+11:00</updated>
+  <updated>2022-03-24T19:30:46+11:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>Sirisha Vemuri, A UI/UX Designer&apos;s Portfolio</subtitle>
+    <subtitle>A UI/UX Designer&apos;s Portfolio</subtitle>
   
 
   
@@ -20,53 +20,1511 @@
   
   
     <entry>
+      <title type="html">Milestonepay</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Milestonepay" />
+      <published>2022-02-09T00:00:00+11:00</published>
+      <updated>2022-02-09T00:00:00+11:00</updated>
+      <id>http://localhost:4000/MilestonePay</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Milestone Pay started as an idea to help freelancers and small businesses ensure they get paid for the hard work that they do. &lt;br /&gt;
+   &lt;br /&gt; Three years ago, MilestonePay started with a contract builder that had payments, dispute resolution and deliverables built in to boost the communication between clients and service providers. They quickly realised that in addition to this, businesses needed more support and were generally overwhelmed by the amount of “busy” work that was involved with the administration side of the business. &lt;br /&gt;
+   &lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./img/milestonePay/team.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Click through the tabs below to see the details of each phase. &lt;br /&gt;&lt;/p&gt;
+&lt;ul class=&quot;nav nav-tabs nav-justified nav-fill&quot;&gt;
+   &lt;li class=&quot;active&quot;&gt;
+      &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover2&quot;&gt;
+      &lt;u&gt;Discover&lt;/u&gt;
+      &lt;/a&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+      &lt;a data-toggle=&quot;tab&quot; href=&quot;#Define2&quot;&gt;
+      &lt;u&gt;Define&lt;/u&gt;
+      &lt;/a&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+      &lt;a data-toggle=&quot;tab&quot; href=&quot;#Develop2&quot;&gt;
+      &lt;u&gt;Develop&lt;/u&gt;
+      &lt;/a&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+      &lt;a data-toggle=&quot;tab&quot; href=&quot;#Deliver2&quot;&gt;
+      &lt;u&gt;Deliver&lt;/u&gt;
+      &lt;/a&gt;
+   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;tab-content model-body&quot;&gt;
+   &lt;div id=&quot;Discover2&quot; class=&quot;tab-pane fade in active&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Understanding the problem space&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;Client Brief&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;br /&gt;
+      &lt;p&gt;The purpose of this project is to build a tool to help our users (Freelancers and Small Business Owners) create a workflow for their customers to seamlessly automate their interactions, increase customer communication and satisfaction by reducing back of house operations (Invoicing, Document generation, Project management, etc.) and systemize their business in a quick and easy way.&lt;/p&gt;
+      &lt;img src=&quot;./img/milestonePay/clientbrief.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;Project Scope&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/projectscope.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;Initial Problem Statement&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;br /&gt;
+      &lt;p&gt;Freelancers who feel unmotivated and overwhelmed about the admin process of running a small business - need to seamlessly onboard, service and invoice their clients, but don&apos;t have a lot of time and don&apos;t know where to begin&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;ul class=&quot;nav nav-tabs nav-justified&quot;&gt;
+         &lt;li class=&quot;active&quot;&gt;
+            &lt;a data-toggle=&quot;tab&quot; href=&quot;#desktopresearch2&quot;&gt;
+            &lt;u&gt;Desktop Research&lt;/u&gt;
+            &lt;/a&gt;
+         &lt;/li&gt;
+         &lt;li&gt;
+            &lt;a data-toggle=&quot;tab&quot; href=&quot;#quantitative2&quot;&gt;
+            &lt;u&gt;Quantitative&lt;/u&gt;
+            &lt;/a&gt;
+         &lt;/li&gt;
+         &lt;li&gt;
+            &lt;a data-toggle=&quot;tab&quot; href=&quot;#qualitative2&quot;&gt;
+            &lt;u&gt;Qualitative&lt;/u&gt;
+            &lt;/a&gt;
+         &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class=&quot;tab-content&quot;&gt;
+         &lt;div id=&quot;desktopresearch2&quot; class=&quot;tab-pane fade in active&quot;&gt;
+            &lt;br /&gt;
+            &lt;p&gt;We then started with Desktop Research to understand the users, and we learned that there are roughly 4.1million freelancers in Australia of whom 40% reported feeling time-poor. 31% also said they would like to learn about how to automate their business.&lt;/p&gt;
+            &lt;img src=&quot;./img/milestonePay/desktopresearch.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;p&gt;So if they aren&apos;t using MilestonePay already, what kind of tools are they using?
+               &lt;br /&gt;
+               We did some competitor analysis to understand the landscape and performed a SWOT analysis on 4 of the top competitors that you can look through later.
+               &lt;br /&gt;&lt;br /&gt;
+               They are as below:
+            &lt;/p&gt;
+            &lt;img src=&quot;./img/milestonePay/competitoranalysis.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research3.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research4.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research5.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;p&gt;We considered MilestonePay&apos;s value proposition, asking: what makes it stand out against its competitors, and what do the users value about it? 
+               &lt;br /&gt;&lt;br /&gt;
+               Its present values are that it&apos;s an Australian Platform and has a free tier, making it feel more accessible and it is built for the humble freelancer rather than large corporations. The Milestone Pay option also helps users get paid with less friction.
+               &lt;br /&gt;&lt;br /&gt;
+               We also looked at how Milestone would stand out in the future, with a more user-friendly platform and substantial level of automation.
+            &lt;/p&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research6.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research7.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research8.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research9.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research10.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research11.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/research12.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+         &lt;/div&gt;
+         &lt;div id=&quot;quantitative2&quot; class=&quot;tab-pane fade in&quot;&gt;
+            &lt;br /&gt;
+            &lt;p&gt;We received 26 responses across 2 surveys. Questions ranged from the &quot;tell us about your business development process&quot; to &quot;how do you manage scope creep&quot;, &quot;have you ever had trouble getting paid&quot; and &quot;do you regularly ask for feedback&quot;?&lt;/p&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/surveydata.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/surveyparticipantdata.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+         &lt;/div&gt;
+         &lt;div id=&quot;qualitative2&quot; class=&quot;tab-pane fade in&quot;&gt;
+            &lt;br /&gt;
+            &lt;p&gt;We held 14 one-on-one interviews with 8 freelancers and 6 clients from professions - Front End Web Developer, Photographer, Business Coach, Project Manager, and more.&lt;/p&gt;
+            &lt;br /&gt;
+            &lt;img src=&quot;./img/milestonePay/interviews.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+            &lt;br /&gt;
+         &lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div id=&quot;Define2&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Using Research to create insights and understanding the pain points&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;p&gt;In the Define phase, we took the research findings and began to study the data to draw out key insights&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/quotes.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We heard about their experience with contracts and proposals&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/contracts.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We also heard about their struggles and experience with invoicing and Payments&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/invoices.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We learned that most of them rarely ask for structured feedback at the end&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/feedback.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/Painpoints.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/dreamtool.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/bestpractices.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;KEY RESEARCH INSIGHTS:&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;p&gt;We surveyed 26 small business owners and held 1:1 interviews with 10 freelancers and 6 clients. We synthesised their thoughts, feelings, statements, and actions and distilled the findings down into a series of key insights&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;ul align=&quot;left&quot;&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;General:&lt;/strong&gt; Their system for managing business is working fine, but most of them are more in reactive/survival mode vs a thriving/proactive mode.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Their existing tools are spread between multiple platforms and software. Many said they would like to leverage an all-in-one platform, but hesitate because they are costly and primarily US centric.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Templates:&lt;/strong&gt; Most freelancers have their own templates for proposals, quotes, contracts &amp;amp; invoices that they either created themselves, found online or gathered from friends in the industry.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;New Leads, Proposals &amp;amp; Quoting:&lt;/strong&gt;Most of the freelancers are lucky to have a base of repeat clients or get new work through word of mouth or social media (LinkedIn, FB, IG), however, many struggle with their skills in online marketing and bringing in new business. Few reported having a system for CRM management.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Contracts &amp;amp; Supplier Onboarding:&lt;/strong&gt; Most freelancers lack confidence when it comes to contracts and the other legal aspects of running a business.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Delivering the Work: &lt;/strong&gt; Many reported struggles with collecting payment from their clients at least once due to misaligned expectations. The most common best practice advice we heard was &quot;Communication is key&quot;.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Invoicing &amp;amp; Payment: &lt;/strong&gt; The biggest frustrations we heard from Clients had to do with supplier documentation not meeting their requirements for auditing&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Business Management &amp;amp; Taxes:&lt;/strong&gt; Many freelancers reported struggles with keeping up with their taxes, budgeting and other business management tasks like managing their pipeline.&lt;/p&gt;
+         &lt;/li&gt;
+         &lt;li align=&quot;left&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Feedback &amp;amp; Repeat Business:&lt;/strong&gt; Only about 40% said they regularly ask for client feedback after they complete a job.&lt;/p&gt;
+         &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;br /&gt;
+      &lt;p&gt;Clarissa represents the freelancer archetype and is based on a summary of our key findings across the surveys and freelancer interviews. &lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/personafreelancer.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We mapped Clarissa&apos;s journey through a typical project, using actual quotes from our many interviews and surveys.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/freelanceruserjourney.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We also developed a persona for our Client archetype - Vicky.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/personaclient.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We mapped a complementary journey for Vicky to represent the same project experience, but from the client point of view, so that we could help Clarissa with her goal of appearing more professional to her clients.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/clientuserjourney.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We looked back at all the key findings and revisited our Problem Statement to see if we were still on the right track. &lt;br /&gt; We observed that our original hypothesis was a little off.  Freelancers were not feeling unmotivated and overwhelmed, but rather they felt unsure and disorganised. &lt;br /&gt;And their needs were less about seamlessly onboarding, servicing and invoicing clients, and more about the need to run a professional looking business, but lacked time and knowledge.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;Pivoted problem Statement:&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;p&gt;Freelancers who feel unsure and disorganised about running a professional business need to stay on top of their tasks but face a lack of time and knowledge.&lt;/p&gt;
+   &lt;/div&gt;
+   &lt;div id=&quot;Develop2&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Develop effective solutions which address the pain points using an iterative approach&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/howmightwe.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;p&gt;We ran 3 workshops with 15 participants including freelancers, sole business owners, and classmates. As per the brief, our goal was to generate as many ideas as possible. Participants were encouraged to be as outrageous as they liked and to value quantity over quality, as all ideas can be later refined.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/workshop1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/workshop2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/workshoptechniques.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/ideaworkshop.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;After the workshops we found similarities between some of the participants&apos; ideas which we considered as possible solutions. &lt;br /&gt;For some of the more creative ideas, we went back to our freelancers and asked them to rate them on a five point scale to validate their usefulness.
+      &lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/freelancervoting.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;p&gt;12 of these ideas were rated a 4 or more out of 5, and identified as the most helpful. &lt;br /&gt;This included features such as an Invoice Pie Chart that automatically displays take home pay, taxes and super based on incoming invoices. &lt;br /&gt; As well as Check and Tick -  a digital brief that is presented with a checkbox next to each deliverable to ensure both parties understand and agree to each item.
+      &lt;/p&gt;
+      &lt;img src=&quot;./img/milestonePay/concepttesting.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;p&gt;We looked at what could realistically be implemented and highlighted those ideas. Those that were too expensive, too complicated, or not worth the time, were discarded.
+      &lt;/p&gt;
+      &lt;img src=&quot;./img/milestonePay/mvp.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/ideas1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/ideas2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/ideas3.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/ideas4.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/focus.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;From here, we developed the user flow for both the Proposals Studio and Contracts Helper, to show how our freelancers could navigate through these two tools, which were very closely linked together.
+      &lt;/p&gt;
+      &lt;img src=&quot;./img/milestonePay/userflows.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+   &lt;/div&gt;
+   &lt;div id=&quot;Deliver2&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Build and test the solution&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;Sketching&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/sketching.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;wireframing&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;br /&gt;
+      &lt;p&gt;After Sketching, we translated these into wireframes on Figma to show the basic building blocks of these features and set us up for Prototyping and Testing.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/wireframe1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/wireframe2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/milestonePay/wireframe3.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We needed to find an efficient process for creating proposals for new projects for Clarissa(Persona).&lt;br /&gt;&lt;br /&gt; In response to her pain points, we developed a Lo Fi prototype for the Proposal studio. &lt;br /&gt;&lt;br /&gt; The Proposal Studio is comprised of a conversation-style form that prompts the user with a series of questions, tooltips, and recommendations, to guide both newbies and seasoned professionals alike through the process.&lt;br /&gt;&lt;br /&gt;
+      Tool consists of the below information:
+      &lt;ol align=&quot;left&quot;&gt;
+      &lt;li&gt;
+      &lt;p&gt;A list of projects she previously set up in CRM. By selecting a project from the drop-down, most of the important information is auto-populated into the forms, saving Clarissa`s time.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;She also has the option to add a new project that will backfill data into the CRM, if she prefers to start with this step first&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;The tool has a range of pre filled templates for common scopes of service&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;Starts off with the main proposal page which lists the projects she had done.&lt;/li&gt;
+      &lt;li&gt;She can add a new project from here and this will take her through the process of filling out a proposal e.g. adding client information, deliverables, schedules etc...&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;/ol&gt;
+      &lt;/p&gt;
+      &lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
+      
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals10.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals11.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals12.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals13.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals14.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals15.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals16.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals17.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals18.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals19.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals20.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals4.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals5.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals6.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals7.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals8.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframeproposals/proposals9.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+      &lt;/div&gt;
+      &lt;p&gt;
+      Clarrissa also lacked confidence when it came to writing up contracts for her clients. So we created  contract helper to take the stress out of writing a scope of work.&lt;br /&gt; &lt;br /&gt;Similar to the proposal studio, Contract Helper is comprised of a conversation style form that helps the user build their contract live in the preview zone, by answering a series of simple questions. &lt;br /&gt;&lt;br /&gt;Features include:&lt;/p&gt;
+      &lt;ul align=&quot;left&quot;&gt;
+      &lt;li&gt;
+      &lt;p&gt;tool tips that guide her through the process and automation between the Proposals Studio and Contract Helper, to prevent her from having to enter the same data twice&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;A step by step guide for crafting the legal project description and contracting entities&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;short definitions to guide the Clarissa through with common tricky topics like Limitation of Liability, Intellectual Property and Indemnity&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Finally, she has the option to share the contract with one of her colleagues for review before issuing the document to the Client&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
+      
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/Contracts1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/congtracts13.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts10.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts11.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts12.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts14.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts15.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts16.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts17.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts18.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts19.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts20.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts21.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts22.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts23.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts4.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts5.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts6.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts7.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts8.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/milestonePay/wireframecontracts/contracts9.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+      &lt;/div&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;h4&gt;
+         &lt;b&gt;What did Clarissa`s say?&lt;/b&gt;
+      &lt;/h4&gt;
+      &lt;br /&gt;
+      &lt;p&gt;&lt;strong&gt;Proposals:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;We asked about their experience with the Proposals Tool and we heard things like: &lt;br /&gt;&lt;br /&gt;&quot;It was easy to use, clear, simple&quot;, &quot;I like the idea. It&apos;s a good prompt to do it&quot;&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/proposals.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;&lt;strong&gt;Contracts:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;we asked them about their experience with the contracts tool and we heard things like: &lt;br /&gt;&lt;br /&gt;&quot;It would be a good idea to have an example for the user&quot;&lt;br /&gt;&lt;br /&gt;&quot;Normally the contract I send to potential clients will provide a condition like It is only valid for 30 days, and beyond that date, it is subject to change.&quot;&lt;br /&gt;&lt;br /&gt;&quot;It would be great to have a couple more pages where all the data from the form comes over and is maybe editable. then if the client asks for changes you can easily update it&quot;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/milestonePay/contracts1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+   &lt;/div&gt;
+  
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Experience, User Interface" />
+      
+
+      
+
+      
+        <summary type="html">Milestone Pay started as an idea to help freelancers and small businesses ensure they get paid for the hard work that they do. Three years ago, MilestonePay started with a contract builder that had payments, dispute resolution and deliverables built in to boost the communication between clients and service providers. They quickly realised that in addition to this, businesses needed more support and were generally overwhelmed by the amount of “busy” work that was involved with the administration side of the business. Click through the tabs below to see the details of each phase. Discover Define Develop Deliver Understanding the problem space Client Brief The purpose of this project is to build a tool to help our users (Freelancers and Small Business Owners) create a workflow for their customers to seamlessly automate their interactions, increase customer communication and satisfaction by reducing back of house operations (Invoicing, Document generation, Project management, etc.) and systemize their business in a quick and easy way. Project Scope Initial Problem Statement Freelancers who feel unmotivated and overwhelmed about the admin process of running a small business - need to seamlessly onboard, service and invoice their clients, but don&apos;t have a lot of time and don&apos;t know where to begin Desktop Research Quantitative Qualitative We then started with Desktop Research to understand the users, and we learned that there are roughly 4.1million freelancers in Australia of whom 40% reported feeling time-poor. 31% also said they would like to learn about how to automate their business. So if they aren&apos;t using MilestonePay already, what kind of tools are they using? We did some competitor analysis to understand the landscape and performed a SWOT analysis on 4 of the top competitors that you can look through later. They are as below: We considered MilestonePay&apos;s value proposition, asking: what makes it stand out against its competitors, and what do the users value about it? Its present values are that it&apos;s an Australian Platform and has a free tier, making it feel more accessible and it is built for the humble freelancer rather than large corporations. The Milestone Pay option also helps users get paid with less friction. We also looked at how Milestone would stand out in the future, with a more user-friendly platform and substantial level of automation. We received 26 responses across 2 surveys. Questions ranged from the &quot;tell us about your business development process&quot; to &quot;how do you manage scope creep&quot;, &quot;have you ever had trouble getting paid&quot; and &quot;do you regularly ask for feedback&quot;? We held 14 one-on-one interviews with 8 freelancers and 6 clients from professions - Front End Web Developer, Photographer, Business Coach, Project Manager, and more. Using Research to create insights and understanding the pain points In the Define phase, we took the research findings and began to study the data to draw out key insights We heard about their experience with contracts and proposals We also heard about their struggles and experience with invoicing and Payments We learned that most of them rarely ask for structured feedback at the end KEY RESEARCH INSIGHTS: We surveyed 26 small business owners and held 1:1 interviews with 10 freelancers and 6 clients. We synthesised their thoughts, feelings, statements, and actions and distilled the findings down into a series of key insights General: Their system for managing business is working fine, but most of them are more in reactive/survival mode vs a thriving/proactive mode. Tools: Their existing tools are spread between multiple platforms and software. Many said they would like to leverage an all-in-one platform, but hesitate because they are costly and primarily US centric. Templates: Most freelancers have their own templates for proposals, quotes, contracts &amp;amp; invoices that they either created themselves, found online or gathered from friends in the industry. New Leads, Proposals &amp;amp; Quoting:Most of the freelancers are lucky to have a base of repeat clients or get new work through word of mouth or social media (LinkedIn, FB, IG), however, many struggle with their skills in online marketing and bringing in new business. Few reported having a system for CRM management. Contracts &amp;amp; Supplier Onboarding: Most freelancers lack confidence when it comes to contracts and the other legal aspects of running a business. Delivering the Work: Many reported struggles with collecting payment from their clients at least once due to misaligned expectations. The most common best practice advice we heard was &quot;Communication is key&quot;. Invoicing &amp;amp; Payment: The biggest frustrations we heard from Clients had to do with supplier documentation not meeting their requirements for auditing Business Management &amp;amp; Taxes: Many freelancers reported struggles with keeping up with their taxes, budgeting and other business management tasks like managing their pipeline. Feedback &amp;amp; Repeat Business: Only about 40% said they regularly ask for client feedback after they complete a job. Clarissa represents the freelancer archetype and is based on a summary of our key findings across the surveys and freelancer interviews. We mapped Clarissa&apos;s journey through a typical project, using actual quotes from our many interviews and surveys. We also developed a persona for our Client archetype - Vicky. We mapped a complementary journey for Vicky to represent the same project experience, but from the client point of view, so that we could help Clarissa with her goal of appearing more professional to her clients. We looked back at all the key findings and revisited our Problem Statement to see if we were still on the right track. We observed that our original hypothesis was a little off. Freelancers were not feeling unmotivated and overwhelmed, but rather they felt unsure and disorganised. And their needs were less about seamlessly onboarding, servicing and invoicing clients, and more about the need to run a professional looking business, but lacked time and knowledge. Pivoted problem Statement: Freelancers who feel unsure and disorganised about running a professional business need to stay on top of their tasks but face a lack of time and knowledge. Develop effective solutions which address the pain points using an iterative approach We ran 3 workshops with 15 participants including freelancers, sole business owners, and classmates. As per the brief, our goal was to generate as many ideas as possible. Participants were encouraged to be as outrageous as they liked and to value quantity over quality, as all ideas can be later refined. After the workshops we found similarities between some of the participants&apos; ideas which we considered as possible solutions. For some of the more creative ideas, we went back to our freelancers and asked them to rate them on a five point scale to validate their usefulness. 12 of these ideas were rated a 4 or more out of 5, and identified as the most helpful. This included features such as an Invoice Pie Chart that automatically displays take home pay, taxes and super based on incoming invoices. As well as Check and Tick - a digital brief that is presented with a checkbox next to each deliverable to ensure both parties understand and agree to each item. We looked at what could realistically be implemented and highlighted those ideas. Those that were too expensive, too complicated, or not worth the time, were discarded. From here, we developed the user flow for both the Proposals Studio and Contracts Helper, to show how our freelancers could navigate through these two tools, which were very closely linked together. Build and test the solution Sketching wireframing After Sketching, we translated these into wireframes on Figma to show the basic building blocks of these features and set us up for Prototyping and Testing. We needed to find an efficient process for creating proposals for new projects for Clarissa(Persona). In response to her pain points, we developed a Lo Fi prototype for the Proposal studio. The Proposal Studio is comprised of a conversation-style form that prompts the user with a series of questions, tooltips, and recommendations, to guide both newbies and seasoned professionals alike through the process. Tool consists of the below information: A list of projects she previously set up in CRM. By selecting a project from the drop-down, most of the important information is auto-populated into the forms, saving Clarissa`s time. She also has the option to add a new project that will backfill data into the CRM, if she prefers to start with this step first The tool has a range of pre filled templates for common scopes of service Starts off with the main proposal page which lists the projects she had done. She can add a new project from here and this will take her through the process of filling out a proposal e.g. adding client information, deliverables, schedules etc... Clarrissa also lacked confidence when it came to writing up contracts for her clients. So we created contract helper to take the stress out of writing a scope of work. Similar to the proposal studio, Contract Helper is comprised of a conversation style form that helps the user build their contract live in the preview zone, by answering a series of simple questions. Features include: tool tips that guide her through the process and automation between the Proposals Studio and Contract Helper, to prevent her from having to enter the same data twice A step by step guide for crafting the legal project description and contracting entities short definitions to guide the Clarissa through with common tricky topics like Limitation of Liability, Intellectual Property and Indemnity Finally, she has the option to share the contract with one of her colleagues for review before issuing the document to the Client What did Clarissa`s say? Proposals:We asked about their experience with the Proposals Tool and we heard things like: &quot;It was easy to use, clear, simple&quot;, &quot;I like the idea. It&apos;s a good prompt to do it&quot; Contracts:we asked them about their experience with the contracts tool and we heard things like: &quot;It would be a good idea to have an example for the user&quot;&quot;Normally the contract I send to potential clients will provide a condition like It is only valid for 30 days, and beyond that date, it is subject to change.&quot;&quot;It would be great to have a couple more pages where all the data from the form comes over and is maybe editable. then if the client asks for changes you can easily update it&quot;</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Fitnessme Mobile App</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Fitnessme Mobile App" />
       <published>2022-01-17T00:00:00+11:00</published>
       <updated>2022-01-17T00:00:00+11:00</updated>
       <id>http://localhost:4000/FitnessMe-Mobile-App</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;em&gt;One in three Australians have gained weight during the pandemic!&lt;/em&gt;
-I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the &lt;strong&gt;Double Diamond&lt;/strong&gt; approach to obtain a solution for this.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;i&gt;One in three Australians have gained weight during the pandemic!&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./img/Shared/DoubleDiamond.png&quot; alt=&quot;Double Diamond&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;p&gt;I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the &lt;strong&gt;Double Diamond&lt;/strong&gt; approach to obtain a solution for this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./img/Shared/DoubleDiamond.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Double Diamond&quot; loading=&quot;lazy&quot; /&gt;
 Click through the tabs below to see the details of each phase.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;ul class=&quot;nav nav-tabs nav-justified nav-fill&quot;&gt;
   &lt;li class=&quot;active&quot;&gt;
-    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover&quot;&gt;Discover&lt;/a&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover1&quot;&gt;&lt;u&gt;Discover&lt;/u&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Define&quot;&gt;Define&lt;/a&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Define1&quot;&gt;&lt;u&gt;Define&lt;/u&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Develop&quot;&gt;Develop&lt;/a&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Develop1&quot;&gt;&lt;u&gt;Develop&lt;/u&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Deliver&quot;&gt;Deliver&lt;/a&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Deliver1&quot;&gt;&lt;u&gt;Deliver&lt;/u&gt;&lt;/a&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&quot;tab-content model-body&quot;&gt;
-  &lt;div id=&quot;Discover&quot; class=&quot;tab-pane fade in active&quot;&gt;
+  &lt;div id=&quot;Discover1&quot; class=&quot;tab-pane fade in active&quot;&gt;
     &lt;br /&gt;
     &lt;p&gt;
       &lt;em&gt;Understanding the problem space&lt;/em&gt;
     &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Project Scoping&lt;/b&gt;
     &lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;In order to determine all the parameters; including any goals, assumptions, potential risks, and constraints, I have developed this project canvas at the start of the project.&lt;/p&gt;
-    &lt;img src=&quot;./img/FitnessMe/ProjectScope.png&quot; class=&quot;img-responsive&quot; alt=&quot;Project Scope&quot; /&gt;
-    &lt;hr /&gt;
+    &lt;img src=&quot;./img/FitnessMe/ProjectScope.png&quot; class=&quot;img-responsive&quot; alt=&quot;Project Scope&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Problem Statement&lt;/b&gt;
     &lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;Covid has changed lives. &lt;br /&gt;Given the scenario that most of us were staying at home, we could not get enough exercise, some of us have put ona few extra kilos. This research is to understand how covid weight gain has affected one`s overall health, and the steps they are taking to get back to their previous &lt;strong&gt;&quot;you&quot;&lt;/strong&gt;! &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;RESEARCH PLAN&lt;/b&gt;
     &lt;/h4&gt;
@@ -75,17 +1533,17 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
     &lt;br /&gt;
     &lt;ul class=&quot;nav nav-tabs nav-justified&quot;&gt;
       &lt;li class=&quot;active&quot;&gt;
-        &lt;a data-toggle=&quot;tab&quot; href=&quot;#desktopresearch&quot;&gt;Desktop Research&lt;/a&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#desktopresearch1&quot;&gt;&lt;u&gt;Desktop Research&lt;/u&gt;&lt;/a&gt;
       &lt;/li&gt;
       &lt;li&gt;
-        &lt;a data-toggle=&quot;tab&quot; href=&quot;#quantitative&quot;&gt;Quantitative&lt;/a&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#quantitative1&quot;&gt;&lt;u&gt;Quantitative&lt;/u&gt;&lt;/a&gt;
       &lt;/li&gt;
       &lt;li&gt;
-        &lt;a data-toggle=&quot;tab&quot; href=&quot;#qualitative&quot;&gt;Qualitative&lt;/a&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#qualitative1&quot;&gt;&lt;u&gt;Qualitative&lt;/u&gt;&lt;/a&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
     &lt;div class=&quot;tab-content&quot;&gt;
-      &lt;div id=&quot;desktopresearch&quot; class=&quot;tab-pane fade in active&quot;&gt;
+      &lt;div id=&quot;desktopresearch1&quot; class=&quot;tab-pane fade in active&quot;&gt;
         &lt;br /&gt;
         &lt;p&gt;I did google search on the topic “Covid Weight Gain” and found the below critical information:&lt;/p&gt;
         &lt;br /&gt;
@@ -118,9 +1576,9 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
         &lt;/ul&gt;
         &lt;br /&gt;
         &lt;p&gt;As a part of Research, I wanted to know what is the current trend on the topic “covid weight gain” and so analysed this information via &lt;strong&gt;Google Trends&lt;/strong&gt; and found out that the interest over time was increasing. &lt;/p&gt;
-        &lt;img src=&quot;./img/FitnessMe/googletrends.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+        &lt;img src=&quot;./img/FitnessMe/googletrends.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
       &lt;/div&gt;
-      &lt;div id=&quot;quantitative&quot; class=&quot;tab-pane fade&quot;&gt;
+      &lt;div id=&quot;quantitative1&quot; class=&quot;tab-pane fade&quot;&gt;
         &lt;br /&gt;
         &lt;p&gt;There were 11 participants who took part in the survey. Below are the insights drawn:&lt;/p&gt;
         &lt;br /&gt;
@@ -149,7 +1607,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
         &lt;br /&gt;
         &lt;div id=&quot;myCarousel1&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
           &lt;!-- Indicators --&gt;
-          &lt;ol class=&quot;carousel-indicators&quot;&gt;
+          &lt;ol class=&quot;carousel-indicators visible-lg&quot;&gt;
             &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
             &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
             &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
@@ -162,83 +1620,82 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
             &lt;li data-target=&quot;#myCarousel1&quot; data-slide-to=&quot;9&quot;&gt;&lt;/li&gt;
           &lt;/ol&gt;
           &lt;!-- Wrapper for slides --&gt;
-          &lt;div class=&quot;carousel-inner&quot;&gt;
+          &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
             &lt;div class=&quot;item active&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/age.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/age.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/gender.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/gender.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/weight.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/weight.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/confidence.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/confidence.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/answer.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/answer.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/exercise.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/exercise.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/outdooractivity.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/outdooractivity.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/snack.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/snack.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
             &lt;div class=&quot;item&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/pollexercise.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/pollexercise.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;!-- Left and right controls --&gt;
-          &lt;a class=&quot;left carousel-control&quot; href=&quot;#myCarousel1&quot; data-slide=&quot;prev&quot;&gt;
-            &lt;span class=&quot;carousel-control-prev-icon&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+          &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css&quot; /&gt;
+          &lt;a class=&quot;left slide-control&quot; href=&quot;#myCarousel1&quot; data-slide=&quot;prev&quot;&gt;
+            &lt;i class=&quot;fa fa-angle-left&quot;&gt;&lt;/i&gt;
           &lt;/a&gt;
-          &lt;a class=&quot;right carousel-control&quot; href=&quot;#myCarousel1&quot; data-slide=&quot;next&quot;&gt;
-            &lt;span class=&quot;carousel-control-next-icon&quot;&gt;&lt;/span&gt;
-            &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+          &lt;a class=&quot;right slide-control&quot; href=&quot;#myCarousel1&quot; data-slide=&quot;next&quot;&gt;
+            &lt;i class=&quot;fa fa-angle-right&quot;&gt;&lt;/i&gt;
           &lt;/a&gt;
         &lt;/div&gt;
       &lt;/div&gt;
-      &lt;div id=&quot;qualitative&quot; class=&quot;tab-pane fade&quot;&gt;
+      &lt;div id=&quot;qualitative1&quot; class=&quot;tab-pane fade&quot;&gt;
         &lt;br /&gt;
         &lt;p&gt;I gathered more information and began to understand the insights better when I started talking to people by conducting one-on-one interviews. I interviewed &lt;strong&gt;1 participant in-person, and 4 participants on zoom calls&lt;/strong&gt;. &lt;/p&gt;
         &lt;br /&gt;
         &lt;div class=&quot;row&quot;&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/interview_1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/interview_1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/interview_2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/interview_2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/interview_3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/interview_3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div id=&quot;Define&quot; class=&quot;tab-pane fade&quot;&gt;
+  &lt;div id=&quot;Define1&quot; class=&quot;tab-pane fade&quot;&gt;
     &lt;br /&gt;
     &lt;p&gt;
       &lt;em&gt;Using Research to create insights and understanding the pain points.&lt;/em&gt;
     &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Affinity Map&lt;/b&gt;
     &lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;I started organising the research data and synthesised them into logical groups and further divided them into subgroups.&lt;/p&gt;
-    &lt;img src=&quot;./img/FitnessMe/AffinityMap.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-    &lt;hr /&gt;
+    &lt;img src=&quot;./img/FitnessMe/AffinityMap.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Key Insights&lt;/b&gt;
     &lt;/h4&gt;
@@ -264,21 +1721,21 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
         &lt;p&gt;In order to have good mental health, and gain confidence back, participants wanted to exercise.&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Empathy Map&lt;/b&gt;
     &lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;Synthesising the data obtained from surveys and one-on-one interviews. The key insights were fed into the Empathy Map.&lt;/p&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;./img/FitnessMe/EmpathyMap.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-    &lt;hr /&gt;
+    &lt;img src=&quot;./img/FitnessMe/EmpathyMap.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Archetype&lt;/b&gt;
     &lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;I have interviewed five people, and the common characteristics in them is summarized as &lt;strong&gt;Chloe! &lt;/strong&gt;. &lt;br /&gt; Meet Chloe, a Software professional, and know more about her health journey, goals and problems, she has encountered during the pandemic. &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Persona&lt;/b&gt;
     &lt;/h4&gt;
@@ -291,8 +1748,8 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
       &lt;em&gt;&quot;I forget what happened yesterday and believe in hope for tomorrow&quot;&lt;/em&gt; are some of the quotes which Chloe referred to.
     &lt;/p&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;./img/FitnessMe/Persona.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-    &lt;hr /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Persona.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;
       &lt;b&gt;Customer Journey Map&lt;/b&gt;
     &lt;/h4&gt;
@@ -303,15 +1760,15 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
       &lt;br /&gt;But, she found out that there were no exciting recipes listed in the app she was using, and also she needed motivation to do exercise and follow the workouts listed in the app in order to lose weight.
     &lt;/p&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;./img/FitnessMe/CustomerJourney Map.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/CustomerJourney Map.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
   &lt;/div&gt;
   
-  &lt;div id=&quot;Develop&quot; class=&quot;tab-pane fade&quot;&gt;
+  &lt;div id=&quot;Develop1&quot; class=&quot;tab-pane fade&quot;&gt;
     &lt;br /&gt;
     &lt;p&gt;
       &lt;em&gt;Develop effective solutions which address the pain points using an iterative approach&lt;/em&gt;
     &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;How Might we (HMW)&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;After analyzing insights from the Research, I have carefully considered all of Chloe`s pain points and derived the below HMWs.&lt;/p&gt;
@@ -329,80 +1786,83 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
         &lt;p&gt;HMW - help Chloe to keep her motivated in continuing her exercise?&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;IDEATION Workshops&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;I have conducted an Ideation workshop in Miro, always thinking about the problem statement and pain points of the persona &quot;Chloe&quot;. I used &lt;strong&gt;Crazy 8`s&lt;/strong&gt; and &lt;strong&gt;Storyboard Brainstorming&lt;/strong&gt; techniques to help with the ideation and solutions. There were 4 Participants who helped Chloe obtain solution, which she would be happy with. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Crazy 8s Report&lt;/strong&gt; &lt;/p&gt;
-    &lt;img src=&quot;./img/FitnessMe/Crazy8s.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Crazy8s.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
     &lt;br /&gt;
     &lt;p&gt;Ideation Workshop was fun . Below are some of the happy faces.&lt;/p&gt;
     &lt;br /&gt;
     &lt;div class=&quot;row&quot;&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/ideation1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/ideation2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/ideation3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
           &lt;/div&gt;
           &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;div class=&quot;thumbnail&quot;&gt;
-              &lt;img src=&quot;./img/FitnessMe/ideation4.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+              &lt;img src=&quot;./img/FitnessMe/ideation4.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
             &lt;/div&gt;
           &lt;/div&gt;
      &lt;/div&gt;
      &lt;br /&gt;
      &lt;p&gt;Storyboard and it&apos;s report&lt;/p&gt;
-     &lt;img src=&quot;./img/FitnessMe/StoryboardChloe.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-     &lt;img src=&quot;./img/FitnessMe/StoryboardReport.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-     &lt;hr /&gt;
+     &lt;img src=&quot;./img/FitnessMe/StoryboardChloe.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+     &lt;img src=&quot;./img/FitnessMe/StoryboardReport.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+     &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
      &lt;h4&gt;Minimum Viable Product&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;Options from both top quadrants of the MVP were chosen to fulfil client brief and the desires of Chloe.
-    &lt;img src=&quot;./img/FitnessMe/MVP.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/MVP.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
     &lt;br /&gt;
     The solution was to have an all in one app, which would give Chloe an option to log calories, get a few motivational articles, get rewards for winning in challenges which she wishes to participate in. She can also invite her friends to this app to have an offline conversation about what she has won. Also, she would be getting notifications about articles related to workouts, healthy food habits.
     &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
      &lt;h4&gt;User Flows&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;Below User Flows have been designed, keeping in view of the solution of an app, proposed in the MVP for Chloe.
-    &lt;img src=&quot;./img/FitnessMe/UserFlows.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/UserFlows.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
     &lt;/p&gt;
   &lt;/div&gt;
-  &lt;div id=&quot;Deliver&quot; class=&quot;tab-pane fade&quot;&gt;
+  &lt;div id=&quot;Deliver1&quot; class=&quot;tab-pane fade&quot;&gt;
      &lt;br /&gt;
     &lt;p&gt;
       &lt;em&gt;Build and test the solution&lt;/em&gt;
     &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;Low Fidelity wireframes&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;As there were to many User flows, I chose to start my sketching in pen and paper. This really helped me in identifying key components in the fitness app for Chloe.
-    &lt;img src=&quot;./img/FitnessMe/LowFidelity.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/LowFidelity.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
     &lt;/p&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
     &lt;h4&gt;Medium Fidelity Wireframes&lt;/h4&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;./img/FitnessMe/Medium1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-    &lt;img src=&quot;./img/FitnessMe/Medium2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-    &lt;img src=&quot;./img/FitnessMe/Medium3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
-    &lt;hr /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Medium1.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Medium2.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;./img/FitnessMe/Medium3.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
         &lt;h4&gt;High Fidelity Wireframes&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;I tested the High Fidelity Wireframes, twice, with 4 Chloes. This is the document that I used to plan my tests and the set of tasks I had them complete. One of the Chloe also tested the app on mobile.&lt;/p&gt;
     &lt;br /&gt;
-      &lt;div class=&quot;row&quot;&gt;
+    &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZpKKsGOpO1Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
+        
+          
         
           
         
@@ -449,7 +1909,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/100.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/100.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -457,7 +1917,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/101.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/101.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -465,7 +1925,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/102.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/102.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -473,7 +1933,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/103.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/103.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -481,7 +1941,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/104.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/104.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -489,7 +1949,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/105.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/105.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -497,7 +1957,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/106.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/106.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -505,7 +1965,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/107.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/107.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -513,7 +1973,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/108.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/108.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -521,7 +1981,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/109.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/109.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -529,7 +1989,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/110.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/110.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -537,7 +1997,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/111.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/111.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -545,7 +2005,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/112.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/112.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -553,7 +2013,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/113.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/113.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -561,7 +2021,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/114.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/114.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -569,7 +2029,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/115.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/115.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -577,7 +2037,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/116.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/116.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -585,7 +2045,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/117.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/117.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -593,7 +2053,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/118.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/118.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -601,7 +2061,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/119.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/119.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -609,7 +2069,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/120.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/120.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -617,7 +2077,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/121.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/121.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -625,7 +2085,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/122.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/122.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -633,7 +2093,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/123.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/123.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -641,7 +2101,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/124.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/124.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -649,7 +2109,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/125.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/125.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -657,7 +2117,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/126.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/126.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -665,7 +2125,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/127.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/127.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -673,7 +2133,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/128.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/128.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -681,7 +2141,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/129.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/129.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -689,7 +2149,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/130.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/130.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -697,7 +2157,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/131.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/131.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -705,7 +2165,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/132.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/132.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -713,7 +2173,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/133.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/133.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -721,7 +2181,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/135.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/135.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
           
@@ -729,9 +2189,225 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
           
             &lt;div class=&quot;col-md-2&quot;&gt;
               &lt;div class=&quot;thumbnail&quot;&gt;
-                &lt;img src=&quot;.//img/FitnessMe/Mockups/136.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; /&gt;
+                &lt;img src=&quot;./img/FitnessMe/Mockups/136.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
               &lt;/div&gt;
             &lt;/div&gt;
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
           
         
           
@@ -846,7 +2522,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
         &lt;p&gt;Inclusion of a Back button in one screen&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;hr /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
         &lt;h4&gt;Next Steps&lt;/h4&gt;
     &lt;br /&gt;
     &lt;p&gt;Following are some of the next steps for this project:&lt;/p&gt;
@@ -886,7 +2562,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
       
 
       
-        <summary type="html">One in three Australians have gained weight during the pandemic! I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the Double Diamond approach to obtain a solution for this.</summary>
+        <summary type="html">One in three Australians have gained weight during the pandemic!</summary>
       
 
       
@@ -894,18 +2570,16 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
     </entry>
   
     <entry>
-      <title type="html">Milestonepay</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Milestonepay" />
-      <published>2021-02-09T00:00:00+11:00</published>
-      <updated>2021-02-09T00:00:00+11:00</updated>
-      <id>http://localhost:4000/MilestonePay</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;What’s beautiful, but gives a UX designer nightmares?&lt;/p&gt;
-
-&lt;h2 id=&quot;waterfalls&quot;&gt;Waterfall(s)&lt;/h2&gt;
+      <title type="html">Sustain Health</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sustain Health" />
+      <published>2020-02-07T00:00:00+11:00</published>
+      <updated>2020-02-07T00:00:00+11:00</updated>
+      <id>http://localhost:4000/Sustain-Health</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;A user interface is like a Joke. If you have to explain it, it’s not that good.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;./img/Shared/wip.png&quot; alt=&quot;work in progress&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;./img/Shared/wip.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;</content>
 
       
       
@@ -926,7 +2600,7 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
       
 
       
-        <summary type="html">What’s beautiful, but gives a UX designer nightmares?</summary>
+        <summary type="html">A user interface is like a Joke. If you have to explain it, it’s not that good.</summary>
       
 
       
@@ -934,16 +2608,16 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
     </entry>
   
     <entry>
-      <title type="html">Sustain Health</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sustain Health" />
+      <title type="html">Grouptag</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Grouptag" />
       <published>2020-02-07T00:00:00+11:00</published>
       <updated>2020-02-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/Sustain-Health</id>
+      <id>http://localhost:4000/GroupTag</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;A user interface is like a Joke. If you have to explain it, it’s not that good.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;./img/Shared/wip.png&quot; alt=&quot;work in progress&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;./img/Shared/wip.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;</content>
 
       
       
