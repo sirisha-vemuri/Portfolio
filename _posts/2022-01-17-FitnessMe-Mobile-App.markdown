@@ -16,9 +16,8 @@ name: FitnessMe Mobile App
 <p>I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the <strong>Double Diamond</strong> approach to obtain a solution for this.</p>
 
 <img src="./img/Shared/DoubleDiamond.png" class="img-responsive img-centered" alt="Double Diamond" loading="lazy">
-Click through the tabs below to see the details of each phase.
+<p>Click through the tabs below to see the details of each phase. </p> <br>
 
-<br>
 <ul class="nav nav-tabs nav-justified nav-fill">
   <li class="active">
     <a data-toggle="tab" href="#Discover1"><u>Discover</u></a>

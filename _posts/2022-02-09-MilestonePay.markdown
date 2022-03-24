@@ -17,7 +17,7 @@ name: MilestonePay
    <br>
 </P>
 <img src="./img/milestonePay/team.png" class="img-responsive img-centered" loading="lazy"> 
-<p>Click through the tabs below to see the details of each phase. <br></p>
+<p>Click through the tabs below to see the details of each phase. </p> <br>
 <ul class="nav nav-tabs nav-justified nav-fill">
    <li class="active">
       <a data-toggle="tab" href="#Discover2">
