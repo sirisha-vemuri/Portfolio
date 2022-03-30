@@ -1,18 +1,43 @@
 ---
 layout: default
 modal-id: 4
-date: 2020-02-07
+date: 2022-03-30
 img: grouptag.png
 alt: Group Tag
-project-date: February 2022
+project-date: April 2022
 client: Group Tag
 category: User Experience, User Interface
 description:
 name: Group Tag
 ---
 
-A user interface is like a Joke. If you have to explain it, it's not that good.
-
----
-
-<img src="./img/Shared/wip.png" class="img-responsive img-centered" loading="lazy">
+<br>
+<p>Grouptag is a platform for professional networking for young professionals, particularly Gen Z.<br><br>There is an existing app, that has four different tabs, ‘Network’, ‘Channels’, ‘Discover’, and ‘Profile’, which include the features such as viewing connections, creating new ideas on the topics of interest of a user, waving at someone, viewing messages, viewing people based on the same interests, checking notifications and sharing the app with someone.<br><br>This design is only limited to the user through an app. Grouptag wanted to get ‘new ideas’ for Gen Z in the creation of new ideas for a website. As there is no website designed for the users at present, I started off my Research by doing competitive analysis, generated new ideas by interacting with the users, and designed them accordingly. Below are the High Definition frames for the same:</p>
+<br>
+<div class="row" style="margin-top: 50px;">
+      {% for image in site.static_files %}
+          {% if image.path contains 'grouptag/grouptag' %}
+            <div class="col-md-2">
+              <div class="thumbnail">
+                <img src=".{{ image.path }}" class="img-responsive" style="width:100%" loading="lazy">
+              </div>
+            </div>
+          {% endif %}
+       {% endfor %}
+</div>
+<br>
+<p>Also, I have designed a new website in accordance with the new version of the app. Below are the High Definition frames for this:</p>
+<br>
+<div class="row" style="margin-top: 50px;">
+      {% for image in site.static_files %}
+          {% if image.path contains 'grouptag/new' %}
+            <div class="col-md-2">
+              <div class="thumbnail">
+                <img src=".{{ image.path }}" class="img-responsive" style="width:100%" loading="lazy">
+              </div>
+            </div>
+          {% endif %}
+       {% endfor %}
+</div>
+<br>
+<p>I am in the process of creating a GEL (UI kit) for the new screens of website for future use for Grouptag.</p>
