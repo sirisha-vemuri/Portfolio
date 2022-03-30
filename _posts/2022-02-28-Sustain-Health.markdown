@@ -194,4 +194,67 @@ name: Sustain Health
       <p>We conducted some concept testing with two users who had the same story as our persona, Alice. This involved showing our sketches of the solution.<br><br>We heard the users say things like:<br><br>"I think it’s good if you want to research about fertility and treatment, this is great because everything is on one page."</p>
       <img src="./img/sustainhealth/userflow.png" class="img-responsive img-centered" loading="lazy">
       <img src="./img/sustainhealth/userflow1.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>We then designed a Mid-fi prototype of the Sustain Health website with the solution incorporated. The Key features of the solution include the following:</p>
+      <br>
+      <img src="./img/sustainhealth/medfi1.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>An educational video clip in which Dr Scott Ling explains how acupuncture and Chinese medicine treat fertility</p>
+      <br>
+      <img src="./img/sustainhealth/medfi2.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>We also created an interactive figure based on our own research and insights from our interviews with acupuncture specialists, which attracts users to learn in a fun way. <br><br>We did learn that different practitioners of acupuncture have different approaches to treating the same conditions so the above interactive figure is not suggesting exactly how acupuncture works, but is just an idea for how Dr Scott Ling might educate his patients in a fun way.
+      </p>
+      <br>
+      <img src="./img/sustainhealth/medfi3.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>We also created a sample journey which outlines information on what to expect at each stage of the pregnancy journey, what treatment is necessary to allow for natural conception to occur, and how Sustain Health will deliver these treatments. For instance, it explains how acupuncture will prepare the body for fertilisation prior to ovulation.</P>
+      <br>
+      <img src="./img/sustainhealth/samplejourney.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>We also took into consideration Alice’s financial stress regarding acupuncture and gave an estimated price comparison between acupuncture and other fertility treatments such as IVF.</p>
+      <br>
+      <img src="./img/sustainhealth/cost.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>We have also provided an “Our Team” section which provides information on professionals at Sustain Health and people’s reviews of their services.The review section is important. The review of the doctor can be the reference for potential customers. By building trust from reviews, people may be encouraged to book a treatment.</p>
+      <br>
+      <img src="./img/sustainhealth/ourteam.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>In the FAQs part, we have a chat box as well, we have provided customer support as live chat, so people can inquire if they still have questions.This allows them to ask questions on the spot which can receive quicker answers.</p>
+      <br>
+      <img src="./img/sustainhealth/Faqs.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>The final part consists of educational and professional articles to give Alice and Anna a deeper understanding of how acupuncture and Chinese medicine successfully work as well as advice that addresses many issues that they may face on their pregnancy journey.</p>
+      <br>
+      <img src="./img/sustainhealth/profarticles.png" class="img-responsive img-centered" loading="lazy">
+      <br>
+      <p>We invited 5 users for our Mid-Fi wireframe test who had the same stories as our personas Alice and Anna. We got some great comments and improvement suggestions.</p>
+      <hr style="border-top-color:#8d579c;">
+    <h4>
+      <b>Usability Testing</b>
+    </h4>
+    <br>
+    <p>We made lots of changes based on the user’s feedback during the usability testing.</p>
+    <ol align="left">
+    <li><p>Two out of five users thought that the categories menu was not interactive and users kept ignoring it when visiting the website.</p></li>
+    <li><p>Three out of five users felt that the interactive figure was not providing enough information on how acupuncture works on the body.</p></li>
+    <li><p>With the Sample Journey, two out of five users said that the lifestyle advice was too vague and repetitive. Also, some users found it difficult to access reviews in the sample journey.</p></li>
+    <li><p>With the cost comparison, we found that four out of five users did not understand the first page and found the flow too long and complex and two out of five users struggled to understand what IVF and IUI were.</p></li>
+    </ol>
+    <p>So, we addressed all of these issues in the high fidelity wireframes, With the categories we combined pictures and words to make the categories more identifiable.</p>
+    <br>
+    <img src="./img/sustainhealth/updatedprototype1.png" class="img-responsive img-centered" loading="lazy">
+    <img src="./img/sustainhealth/updatedprototype2.png" class="img-responsive img-centered" loading="lazy">
+    <img src="./img/sustainhealth/updatedprototype3.png" class="img-responsive img-centered" loading="lazy">
+    <img src="./img/sustainhealth/updatedprototype4.png" class="img-responsive img-centered" loading="lazy">
+    <br>
+    <p>As the client suggested, we have also added one more part to the website which is the case study conducted by Academy Xi students. This case study shares the stories of women whose lives were changed with acupuncture and Chinese medicine as it improved their fertility.</p>
+    <img src="./img/sustainhealth/casestudy.png" class="img-responsive img-centered" loading="lazy">
+    <br>
+      <hr style="border-top-color:#8d579c;">
+    <h4>
+      <b>NEXT STEPS</b>
+    </h4>
+    <br>
+      <p>We recommend the next steps for this project to be: Further user testing for the high fidelity prototype. Users also liked the idea of a personalised pregnancy journey diary, so that could also be added and user tested. Also to come up with a marketing strategy that will attract users to the Sustain Health website.</p>
    </div>
