@@ -222,7 +222,7 @@ name: Sustain Health
       <br>
       <p>In the FAQs part, we have a chat box as well, we have provided customer support as live chat, so people can inquire if they still have questions.This allows them to ask questions on the spot which can receive quicker answers.</p>
       <br>
-      <img src="./img/sustainhealth/Faqs.png" class="img-responsive img-centered" loading="lazy">
+      <img src="./img/sustainhealth/faqs.png" class="img-responsive img-centered" loading="lazy">
       <br>
       <p>The final part consists of educational and professional articles to give Alice and Anna a deeper understanding of how acupuncture and Chinese medicine successfully work as well as advice that addresses many issues that they may face on their pregnancy journey.</p>
       <br>
