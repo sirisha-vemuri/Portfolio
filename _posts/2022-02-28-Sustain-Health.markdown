@@ -169,7 +169,7 @@ name: Sustain Health
       <br>
       <p>Since our solution needed to increase infertility awareness and education, we also looked at other industries which seek to spread awareness and education regarding a sensitive issue. For instance, we found that Beyond Blue, an Australian mental health and wellbeing organisation, provides guidance on what steps to take to reach out for mental health support in difficult times. By looking into how other industries increase awareness, we came up with some ideas for our own solution.</p>
       <br>
-      <img src="./img/sustainhealth/cotherindustries.png" class="img-responsive img-centered" loading="lazy">
+      <img src="./img/sustainhealth/otherindustries.png" class="img-responsive img-centered" loading="lazy">
       <br>
       <p>Following the competitive analysis, we conducted a workshop with our own team because by this time in the project, all of our team members had done extensive research into the field of fertility and acupuncture and were practicing empathy to a great extent towards the users. This allowed us to come up with solutions to their problems through brainwriting activities such as crazy 4s and mashups.<br><br>We also conducted a user workshop with two women who received fertility treatment and they came up with some great ideas as well.</p>
       <img src="./img/sustainhealth/userworkshop.png" class="img-responsive img-centered" loading="lazy">
