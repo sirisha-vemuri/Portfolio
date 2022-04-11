@@ -12,6 +12,8 @@ name: Group Tag
 ---
 
 <br>
+<img src="./img/grouptag/certificate.png" class="img-responsive img-centered" loading="lazy"> 
+<br>
 <p>Grouptag is a platform for professional networking for young professionals, particularly Gen Z.<br><br>There is an existing app, that has four different tabs, ‘Network’, ‘Channels’, ‘Discover’, and ‘Profile’, which include the features such as viewing connections, creating new ideas on the topics of interest of a user, waving at someone, viewing messages, viewing people based on the same interests, checking notifications and sharing the app with someone.<br><br>This design is only limited to the user through an app. Grouptag wanted to get ‘new ideas’ for Gen Z in the creation of new ideas for a website. As there is no website designed for the users at present, I started off my Research by doing competitive analysis, generated new ideas by interacting with the users, and designed them accordingly. Below are the High Definition frames for the same:</p>
 <br>
 <div class="row" style="margin-top: 50px;">
