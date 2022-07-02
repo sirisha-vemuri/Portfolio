@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-03-24T19:45:27+11:00</updated>
+  <updated>2022-07-02T20:27:36+10:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,6 +20,1790 @@
   
   
     <entry>
+      <title type="html">Fair Consulting</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Fair Consulting" />
+      <published>2022-05-13T00:00:00+10:00</published>
+      <updated>2022-05-13T00:00:00+10:00</updated>
+      <id>http://localhost:4000/Fair-consulting</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;img src=&quot;./img/shared/wip.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Experience, User Interface" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Grouptag</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Grouptag" />
+      <published>2022-03-30T00:00:00+11:00</published>
+      <updated>2022-03-30T00:00:00+11:00</updated>
+      <id>http://localhost:4000/GroupTag</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;./img/grouptag/certificate.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt; 
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Grouptag is a platform for professional networking for young professionals, particularly Gen Z.&lt;br /&gt;&lt;br /&gt;There is an existing app, that has four different tabs, ‘Network’, ‘Channels’, ‘Discover’, and ‘Profile’, which include the features such as viewing connections, creating new ideas on the topics of interest of a user, waving at someone, viewing messages, viewing people based on the same interests, checking notifications and sharing the app with someone.&lt;br /&gt;&lt;br /&gt;This design is only limited to the user through an app. Grouptag wanted to get ‘new ideas’ for Gen Z in the creation of new ideas for a website. As there is no website designed for the users at present, I started off my Research by doing competitive analysis, generated new ideas by interacting with the users, and designed them accordingly. Below are the High Definition frames for the same:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
+      
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag101.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag102.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag103.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag104.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag105.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag106.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag107.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag108.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag109.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag110.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag111.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag112.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag113.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag114.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag115.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag116.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag117.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag118.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag119.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag120.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag121.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag122.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag123.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag124.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag125.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag126.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag127.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag128.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/grouptag129.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Also, I have designed a new website in accordance with the new version of the app. Below are the High Definition frames for this:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
+      
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new101.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new102.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new103.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new104.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new105.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new106.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new107.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new108.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new109.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new110.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+            &lt;div class=&quot;col-md-2&quot;&gt;
+              &lt;div class=&quot;thumbnail&quot;&gt;
+                &lt;img src=&quot;./img/grouptag/new111.png&quot; class=&quot;img-responsive&quot; style=&quot;width:100%&quot; loading=&quot;lazy&quot; /&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;I am in the process of creating a GEL (UI kit) for the new screens of website for future use for Grouptag.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Experience, User Interface" />
+      
+
+      
+
+      
+        <summary type="html">Grouptag is a platform for professional networking for young professionals, particularly Gen Z.There is an existing app, that has four different tabs, ‘Network’, ‘Channels’, ‘Discover’, and ‘Profile’, which include the features such as viewing connections, creating new ideas on the topics of interest of a user, waving at someone, viewing messages, viewing people based on the same interests, checking notifications and sharing the app with someone.This design is only limited to the user through an app. Grouptag wanted to get ‘new ideas’ for Gen Z in the creation of new ideas for a website. As there is no website designed for the users at present, I started off my Research by doing competitive analysis, generated new ideas by interacting with the users, and designed them accordingly. Below are the High Definition frames for the same: Also, I have designed a new website in accordance with the new version of the app. Below are the High Definition frames for this: I am in the process of creating a GEL (UI kit) for the new screens of website for future use for Grouptag.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sustain Health</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sustain Health" />
+      <published>2022-02-28T00:00:00+11:00</published>
+      <updated>2022-02-28T00:00:00+11:00</updated>
+      <id>http://localhost:4000/Sustain-Health</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Ling is a combined Chinese and Western Medicine practitioner with a PHD in Chinese Medicine and a Master of Reproductive Health. He and his practitioners provide acupuncture treatment that, when used with Western Medicine, can significantly improve the number of live births for woman undergoing IVF. &lt;br /&gt;
+  &lt;br /&gt; He wishes to expand awareness of acupuncture as a treatment and integrate acupuncture into treatment plans for patients with conditions such as infertility.
+&lt;/p&gt;
+&lt;p&gt;Click through the tabs below to see the details of each phase. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul class=&quot;nav nav-tabs nav-justified nav-fill&quot;&gt;
+  &lt;li class=&quot;active&quot;&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover3&quot;&gt;
+      &lt;u&gt;Discover&lt;/u&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Define3&quot;&gt;
+      &lt;u&gt;Define&lt;/u&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Develop3&quot;&gt;
+      &lt;u&gt;Develop&lt;/u&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a data-toggle=&quot;tab&quot; href=&quot;#Deliver3&quot;&gt;
+      &lt;u&gt;Deliver&lt;/u&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;tab-content model-body&quot;&gt;
+  &lt;div id=&quot;Discover3&quot; class=&quot;tab-pane fade in active&quot;&gt;
+    &lt;br /&gt;
+    &lt;p&gt;
+      &lt;em&gt;Understanding the problem space&lt;/em&gt;
+    &lt;/p&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Client Brief&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;The purpose of this document is to educate women on their health and wellbeing and conceiving naturally before jumping into invasive fertility treatments. Also to understand the mindsets of (a)women who receive acupuncture regularly, (b)women who may be interested but have not made the decision to receive acupuncture as a treatment, (c) women who manage stress during the pregnancy journey and treatment process.&lt;/p&gt;
+    &lt;img src=&quot;./img/sustainhealth/clientbrief.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Project Scope&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;img src=&quot;./img/sustainhealth/projectscope.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Initial Problem Statement&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;A woman who feels confused and stressed about her struggle of becoming pregnant wants to learn about what steps she should take to conceive and how she can get pregnant but faces a lack of educational resources. &lt;/p&gt;
+    &lt;ul class=&quot;nav nav-tabs nav-justified&quot;&gt;
+      &lt;li class=&quot;active&quot;&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#desktopresearch3&quot;&gt;
+          &lt;u&gt;Desktop Research&lt;/u&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#quantitative3&quot;&gt;
+          &lt;u&gt;Quantitative&lt;/u&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a data-toggle=&quot;tab&quot; href=&quot;#qualitative3&quot;&gt;
+          &lt;u&gt;Qualitative&lt;/u&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class=&quot;tab-content&quot;&gt;
+      &lt;div id=&quot;desktopresearch3&quot; class=&quot;tab-pane fade in active&quot;&gt;
+      &lt;br /&gt;
+        &lt;p&gt;My team members and I found it very important to understand the space of infertility as well. So, we conducted some desktop research in order to paint an overall picture of the problem space. We found that&lt;/p&gt;
+        &lt;ul align=&quot;left&quot;&gt;
+          &lt;li&gt;
+            &lt;p&gt;Infertility affects one in six Australian couples of reproductive age.&lt;/p&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;p&gt;In 40% of couples the cause of infertility is attributed to a sperm factor, in another 40% the cause is found within the female reproductive system, and a third will have a combination of male and female factors.&lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;br /&gt;
+        &lt;img src=&quot;./img/sustainhealth/desktopresearch1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;img src=&quot;./img/sustainhealth/desktopresearch2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;quantitative3&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+        &lt;p&gt; The purpose of this survey was to collect some demographic information about women who are trying to conceive. We also wanted to measure attitudes and awareness towards the availability of information and educational resources when it comes to conceiving naturally. We also wanted to know whether women were aware that acupuncture and Chinese medicine can treat fertility. &lt;br /&gt;
+          &lt;br /&gt;So in total, we received 19 responses from the survey. 47% of them felt that they did not get enough education on how to conceive naturally. &lt;br /&gt;
+          &lt;br /&gt;Two of the women in the survey were either planning on doing IVF or were in the process of doing IVF and they both agreed that they have not been given enough information on lifestyle changes they should adopt to increase the chances of IVF being successful. Also, two women who were trying to conceive responded to our questions about acupuncture and Chinese medicine. Out of them, one was not even aware that acupuncture is a fertility treatment and the other said that although she was aware that it is used as treatment, she does not plan on getting it as treatment.
+        &lt;/p&gt;
+        &lt;img src=&quot;./img/sustainhealth/surveydata.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div id=&quot;qualitative3&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+         &lt;p&gt;In order to dig deeper, we conducted 7 user interviews. In all these interviews, women were in the process of actively trying to conceive except one who had recently had a baby, but she did go through the pregnancy and treatment journey not long before the interview. Five of these women were undergoing IVF, one had done IUI and one was in the process of finding out what fertility treatment to undertake. So, none of them were actively trying to conceive naturally and we were unable to look into this user group. However, we did interview 3 women who were actively undergoing acupuncture and taking Chinese medicine as part of their treatment, and we interviewed 4 women who have never had acupuncture and Chinese medicine as fertility treatment. This did work in our favour because one of the objectives that came up in the initial briefing was to understand the mindsets of women who were not doing taking acupuncture and Chinese medicine as a form of treatment and we were able to understand why some women do not undergo acupuncture despite being aware of it as a form of fertility treatment.&lt;/p&gt;
+         &lt;img src=&quot;./img/sustainhealth/oneononeinterview.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/div&gt;
+   &lt;div id=&quot;Define3&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Using Research to create insights and understanding the pain points&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;p&gt;In the Define phase, we took the research findings and began to study the data to draw out key insights&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;ol align=&quot;left&quot;&gt;
+      &lt;li&gt;
+      &lt;p&gt;Users felt that acupuncture and Chinese medicine improved their fertility and other symptoms they were experiencing such as stress, lethargy, and insomnia.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;p&gt;Users who had never undergone acupuncture and Chinese medicine as fertility treatment had heard about the treatment and were interested, but were indecisive because they did not have enough knowledge about it.&lt;/p&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;p&gt;One of the biggest pain points, experienced by all women whether or not they were undergoing acupuncture and Chinese medicine, was the stress associated with trying to conceive.&lt;/p&gt;&lt;/li&gt;
+      &lt;/ol&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/painpoints.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/whatineed.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/dreamtool.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/acupuncture1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/acupuncture2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;p&gt;We also found that women who were receiving acupuncture and Chinese medicine started later in their pregnancy journey after failed rounds of IUI or IVF because they were finding out about it much later through word of mouth. We also found that women who were not receiving acupuncture and Chinese medicine were not doing so because they did not know enough about it. &lt;br /&gt;&lt;br /&gt;We found that women were finding out about it so late or not finding out about it at all because it is never recommended by the health professionals they come into contact with during their pregnancy journey like their GP.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/personaalice.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/personaanna.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/cjm1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/cjm2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/oneononeinterview1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+      From the gynaecologists, we learned that health practitioners do not take the time to really educate their patients. They’re more focussed on referring their patients to the next specialist. She said that if she could have things her way to make the process less stressful and more informative for the patient.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/researchinsights.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/hmw1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/researchinsights1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/hmw2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/hmw3.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+      Previously, the key research insights are in the form of How Might We questions and we were asked by the client to focus on the following:&lt;br /&gt; &lt;br /&gt;How can we get Anna and Alice to view acupuncture and Chinese medicine as an effective fertility treatment (with or without IVF) at the beginning of their treatment process, rather than as a result of failed IVF attempts and as an act of desperation?&lt;br /&gt; &lt;br /&gt;This HMW question was chosen because the client rightly pointed out that women deserve to be aware that acupuncture is an effective treatment that facilitates conceiving naturally early on in their pregnancy journey before going through multiple failed rounds of IVF and financial loss.
+      &lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/hmw4.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/researchnew.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+   &lt;/div&gt;
+   &lt;div id=&quot;Develop3&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Develop effective solutions which address the pain points using an iterative approach&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We conducted an extensive competitive analysis to find out how other fertility organisations educate users on fertility and treatment. We looked at the strengths, weaknesses, opportunities and threats of organisations such as Kinn fertility, Monash IVF, Melbourne IVF, and more which you can later have a look at. This analysis provided us with some ideas for a solution.&lt;/p&gt;
+      &lt;img src=&quot;./img/sustainhealth/competitiveanalysis.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;Since our solution needed to increase infertility awareness and education, we also looked at other industries which seek to spread awareness and education regarding a sensitive issue. For instance, we found that Beyond Blue, an Australian mental health and wellbeing organisation, provides guidance on what steps to take to reach out for mental health support in difficult times. By looking into how other industries increase awareness, we came up with some ideas for our own solution.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/otherindustries.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;Following the competitive analysis, we conducted a workshop with our own team because by this time in the project, all of our team members had done extensive research into the field of fertility and acupuncture and were practicing empathy to a great extent towards the users. This allowed us to come up with solutions to their problems through brainwriting activities such as crazy 4s and mashups.&lt;br /&gt;&lt;br /&gt;We also conducted a user workshop with two women who received fertility treatment and they came up with some great ideas as well.&lt;/p&gt;
+      &lt;img src=&quot;./img/sustainhealth/userworkshop.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We then presented the ideas generated from the workshops and competitive analysis to the client who voted on top solutions. The solution features were then mapped onto a minimum viable product matrix to find out the most feasible, viable, and desirable outcome.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/voting.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;The MVP turned out to be educational sample journey, which informs women what treatment and lifestyle changes are important to adopt in each stage of the ovulation cycle in order to improve fertility. The journey also outlines how Sustain Health will help the user incorporate these treatments and lifestyle changes into their treatment journey. This tool will also have information on the cost of acupuncture and Chinese medicine compared to other fertility treatments. Other educational features will also be included such as professional articles. These features are intended to be additions to the Sustain Health website.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/mvp.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+   &lt;/div&gt;
+   &lt;div id=&quot;Deliver3&quot; class=&quot;tab-pane fade in&quot;&gt;
+      &lt;br /&gt;
+      &lt;p&gt;
+         &lt;em&gt;Build and test the solution&lt;/em&gt;
+      &lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/sketches.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We conducted some concept testing with two users who had the same story as our persona, Alice. This involved showing our sketches of the solution.&lt;br /&gt;&lt;br /&gt;We heard the users say things like:&lt;br /&gt;&lt;br /&gt;&quot;I think it’s good if you want to research about fertility and treatment, this is great because everything is on one page.&quot;&lt;/p&gt;
+      &lt;img src=&quot;./img/sustainhealth/userflow.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;img src=&quot;./img/sustainhealth/userflow1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We then designed a Mid-fi prototype of the Sustain Health website with the solution incorporated. The Key features of the solution include the following:&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/medfi1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;An educational video clip in which Dr Scott Ling explains how acupuncture and Chinese medicine treat fertility&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/medfi2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We also created an interactive figure based on our own research and insights from our interviews with acupuncture specialists, which attracts users to learn in a fun way. &lt;br /&gt;&lt;br /&gt;We did learn that different practitioners of acupuncture have different approaches to treating the same conditions so the above interactive figure is not suggesting exactly how acupuncture works, but is just an idea for how Dr Scott Ling might educate his patients in a fun way.
+      &lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/medfi3.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We also created a sample journey which outlines information on what to expect at each stage of the pregnancy journey, what treatment is necessary to allow for natural conception to occur, and how Sustain Health will deliver these treatments. For instance, it explains how acupuncture will prepare the body for fertilisation prior to ovulation.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/samplejourney.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We also took into consideration Alice’s financial stress regarding acupuncture and gave an estimated price comparison between acupuncture and other fertility treatments such as IVF.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/cost.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We have also provided an “Our Team” section which provides information on professionals at Sustain Health and people’s reviews of their services.The review section is important. The review of the doctor can be the reference for potential customers. By building trust from reviews, people may be encouraged to book a treatment.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/ourteam.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;In the FAQs part, we have a chat box as well, we have provided customer support as live chat, so people can inquire if they still have questions.This allows them to ask questions on the spot which can receive quicker answers.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/faqs.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;The final part consists of educational and professional articles to give Alice and Anna a deeper understanding of how acupuncture and Chinese medicine successfully work as well as advice that addresses many issues that they may face on their pregnancy journey.&lt;/p&gt;
+      &lt;br /&gt;
+      &lt;img src=&quot;./img/sustainhealth/profarticles.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;br /&gt;
+      &lt;p&gt;We invited 5 users for our Mid-Fi wireframe test who had the same stories as our personas Alice and Anna. We got some great comments and improvement suggestions.&lt;/p&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;Usability Testing&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+    &lt;p&gt;We made lots of changes based on the user’s feedback during the usability testing.&lt;/p&gt;
+    &lt;ol align=&quot;left&quot;&gt;
+    &lt;li&gt;&lt;p&gt;Two out of five users thought that the categories menu was not interactive and users kept ignoring it when visiting the website.&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;Three out of five users felt that the interactive figure was not providing enough information on how acupuncture works on the body.&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;With the Sample Journey, two out of five users said that the lifestyle advice was too vague and repetitive. Also, some users found it difficult to access reviews in the sample journey.&lt;/p&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;p&gt;With the cost comparison, we found that four out of five users did not understand the first page and found the flow too long and complex and two out of five users struggled to understand what IVF and IUI were.&lt;/p&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;So, we addressed all of these issues in the high fidelity wireframes, With the categories we combined pictures and words to make the categories more identifiable.&lt;/p&gt;
+    &lt;br /&gt;
+    &lt;img src=&quot;./img/sustainhealth/updatedprototype1.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;./img/sustainhealth/updatedprototype2.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;./img/sustainhealth/updatedprototype3.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;./img/sustainhealth/updatedprototype4.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;br /&gt;
+    &lt;p&gt;As the client suggested, we have also added one more part to the website which is the case study conducted by Academy Xi students. This case study shares the stories of women whose lives were changed with acupuncture and Chinese medicine as it improved their fertility.&lt;/p&gt;
+    &lt;img src=&quot;./img/sustainhealth/casestudy.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;br /&gt;
+      &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
+    &lt;h4&gt;
+      &lt;b&gt;NEXT STEPS&lt;/b&gt;
+    &lt;/h4&gt;
+    &lt;br /&gt;
+      &lt;p&gt;We recommend the next steps for this project to be: Further user testing for the high fidelity prototype. Users also liked the idea of a personalised pregnancy journey diary, so that could also be added and user tested. Also to come up with a marketing strategy that will attract users to the Sustain Health website.&lt;/p&gt;
+   &lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="User Experience, User Interface" />
+      
+
+      
+
+      
+        <summary type="html">Dr. Ling is a combined Chinese and Western Medicine practitioner with a PHD in Chinese Medicine and a Master of Reproductive Health. He and his practitioners provide acupuncture treatment that, when used with Western Medicine, can significantly improve the number of live births for woman undergoing IVF. He wishes to expand awareness of acupuncture as a treatment and integrate acupuncture into treatment plans for patients with conditions such as infertility. Click through the tabs below to see the details of each phase. Discover Define Develop Deliver Understanding the problem space Client Brief The purpose of this document is to educate women on their health and wellbeing and conceiving naturally before jumping into invasive fertility treatments. Also to understand the mindsets of (a)women who receive acupuncture regularly, (b)women who may be interested but have not made the decision to receive acupuncture as a treatment, (c) women who manage stress during the pregnancy journey and treatment process. Project Scope Initial Problem Statement A woman who feels confused and stressed about her struggle of becoming pregnant wants to learn about what steps she should take to conceive and how she can get pregnant but faces a lack of educational resources. Desktop Research Quantitative Qualitative My team members and I found it very important to understand the space of infertility as well. So, we conducted some desktop research in order to paint an overall picture of the problem space. We found that Infertility affects one in six Australian couples of reproductive age. In 40% of couples the cause of infertility is attributed to a sperm factor, in another 40% the cause is found within the female reproductive system, and a third will have a combination of male and female factors. The purpose of this survey was to collect some demographic information about women who are trying to conceive. We also wanted to measure attitudes and awareness towards the availability of information and educational resources when it comes to conceiving naturally. We also wanted to know whether women were aware that acupuncture and Chinese medicine can treat fertility. So in total, we received 19 responses from the survey. 47% of them felt that they did not get enough education on how to conceive naturally. Two of the women in the survey were either planning on doing IVF or were in the process of doing IVF and they both agreed that they have not been given enough information on lifestyle changes they should adopt to increase the chances of IVF being successful. Also, two women who were trying to conceive responded to our questions about acupuncture and Chinese medicine. Out of them, one was not even aware that acupuncture is a fertility treatment and the other said that although she was aware that it is used as treatment, she does not plan on getting it as treatment. In order to dig deeper, we conducted 7 user interviews. In all these interviews, women were in the process of actively trying to conceive except one who had recently had a baby, but she did go through the pregnancy and treatment journey not long before the interview. Five of these women were undergoing IVF, one had done IUI and one was in the process of finding out what fertility treatment to undertake. So, none of them were actively trying to conceive naturally and we were unable to look into this user group. However, we did interview 3 women who were actively undergoing acupuncture and taking Chinese medicine as part of their treatment, and we interviewed 4 women who have never had acupuncture and Chinese medicine as fertility treatment. This did work in our favour because one of the objectives that came up in the initial briefing was to understand the mindsets of women who were not doing taking acupuncture and Chinese medicine as a form of treatment and we were able to understand why some women do not undergo acupuncture despite being aware of it as a form of fertility treatment. Using Research to create insights and understanding the pain points In the Define phase, we took the research findings and began to study the data to draw out key insights Users felt that acupuncture and Chinese medicine improved their fertility and other symptoms they were experiencing such as stress, lethargy, and insomnia. Users who had never undergone acupuncture and Chinese medicine as fertility treatment had heard about the treatment and were interested, but were indecisive because they did not have enough knowledge about it. One of the biggest pain points, experienced by all women whether or not they were undergoing acupuncture and Chinese medicine, was the stress associated with trying to conceive. We also found that women who were receiving acupuncture and Chinese medicine started later in their pregnancy journey after failed rounds of IUI or IVF because they were finding out about it much later through word of mouth. We also found that women who were not receiving acupuncture and Chinese medicine were not doing so because they did not know enough about it. We found that women were finding out about it so late or not finding out about it at all because it is never recommended by the health professionals they come into contact with during their pregnancy journey like their GP. From the gynaecologists, we learned that health practitioners do not take the time to really educate their patients. They’re more focussed on referring their patients to the next specialist. She said that if she could have things her way to make the process less stressful and more informative for the patient. Previously, the key research insights are in the form of How Might We questions and we were asked by the client to focus on the following: How can we get Anna and Alice to view acupuncture and Chinese medicine as an effective fertility treatment (with or without IVF) at the beginning of their treatment process, rather than as a result of failed IVF attempts and as an act of desperation? This HMW question was chosen because the client rightly pointed out that women deserve to be aware that acupuncture is an effective treatment that facilitates conceiving naturally early on in their pregnancy journey before going through multiple failed rounds of IVF and financial loss. Develop effective solutions which address the pain points using an iterative approach We conducted an extensive competitive analysis to find out how other fertility organisations educate users on fertility and treatment. We looked at the strengths, weaknesses, opportunities and threats of organisations such as Kinn fertility, Monash IVF, Melbourne IVF, and more which you can later have a look at. This analysis provided us with some ideas for a solution. Since our solution needed to increase infertility awareness and education, we also looked at other industries which seek to spread awareness and education regarding a sensitive issue. For instance, we found that Beyond Blue, an Australian mental health and wellbeing organisation, provides guidance on what steps to take to reach out for mental health support in difficult times. By looking into how other industries increase awareness, we came up with some ideas for our own solution. Following the competitive analysis, we conducted a workshop with our own team because by this time in the project, all of our team members had done extensive research into the field of fertility and acupuncture and were practicing empathy to a great extent towards the users. This allowed us to come up with solutions to their problems through brainwriting activities such as crazy 4s and mashups.We also conducted a user workshop with two women who received fertility treatment and they came up with some great ideas as well. We then presented the ideas generated from the workshops and competitive analysis to the client who voted on top solutions. The solution features were then mapped onto a minimum viable product matrix to find out the most feasible, viable, and desirable outcome. The MVP turned out to be educational sample journey, which informs women what treatment and lifestyle changes are important to adopt in each stage of the ovulation cycle in order to improve fertility. The journey also outlines how Sustain Health will help the user incorporate these treatments and lifestyle changes into their treatment journey. This tool will also have information on the cost of acupuncture and Chinese medicine compared to other fertility treatments. Other educational features will also be included such as professional articles. These features are intended to be additions to the Sustain Health website. Build and test the solution We conducted some concept testing with two users who had the same story as our persona, Alice. This involved showing our sketches of the solution.We heard the users say things like:&quot;I think it’s good if you want to research about fertility and treatment, this is great because everything is on one page.&quot; We then designed a Mid-fi prototype of the Sustain Health website with the solution incorporated. The Key features of the solution include the following: An educational video clip in which Dr Scott Ling explains how acupuncture and Chinese medicine treat fertility We also created an interactive figure based on our own research and insights from our interviews with acupuncture specialists, which attracts users to learn in a fun way. We did learn that different practitioners of acupuncture have different approaches to treating the same conditions so the above interactive figure is not suggesting exactly how acupuncture works, but is just an idea for how Dr Scott Ling might educate his patients in a fun way. We also created a sample journey which outlines information on what to expect at each stage of the pregnancy journey, what treatment is necessary to allow for natural conception to occur, and how Sustain Health will deliver these treatments. For instance, it explains how acupuncture will prepare the body for fertilisation prior to ovulation. We also took into consideration Alice’s financial stress regarding acupuncture and gave an estimated price comparison between acupuncture and other fertility treatments such as IVF. We have also provided an “Our Team” section which provides information on professionals at Sustain Health and people’s reviews of their services.The review section is important. The review of the doctor can be the reference for potential customers. By building trust from reviews, people may be encouraged to book a treatment. In the FAQs part, we have a chat box as well, we have provided customer support as live chat, so people can inquire if they still have questions.This allows them to ask questions on the spot which can receive quicker answers. The final part consists of educational and professional articles to give Alice and Anna a deeper understanding of how acupuncture and Chinese medicine successfully work as well as advice that addresses many issues that they may face on their pregnancy journey. We invited 5 users for our Mid-Fi wireframe test who had the same stories as our personas Alice and Anna. We got some great comments and improvement suggestions. Usability Testing We made lots of changes based on the user’s feedback during the usability testing. Two out of five users thought that the categories menu was not interactive and users kept ignoring it when visiting the website. Three out of five users felt that the interactive figure was not providing enough information on how acupuncture works on the body. With the Sample Journey, two out of five users said that the lifestyle advice was too vague and repetitive. Also, some users found it difficult to access reviews in the sample journey. With the cost comparison, we found that four out of five users did not understand the first page and found the flow too long and complex and two out of five users struggled to understand what IVF and IUI were. So, we addressed all of these issues in the high fidelity wireframes, With the categories we combined pictures and words to make the categories more identifiable. As the client suggested, we have also added one more part to the website which is the case study conducted by Academy Xi students. This case study shares the stories of women whose lives were changed with acupuncture and Chinese medicine as it improved their fertility. NEXT STEPS We recommend the next steps for this project to be: Further user testing for the high fidelity prototype. Users also liked the idea of a personalised pregnancy journey diary, so that could also be added and user tested. Also to come up with a marketing strategy that will attract users to the Sustain Health website.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Milestonepay</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Milestonepay" />
       <published>2022-02-09T00:00:00+11:00</published>
@@ -31,7 +1815,8 @@
    &lt;br /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;./img/milestonePay/team.png&quot; class=&quot;img-responsive img-centered&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Click through the tabs below to see the details of each phase. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Click through the tabs below to see the details of each phase. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;ul class=&quot;nav nav-tabs nav-justified nav-fill&quot;&gt;
    &lt;li class=&quot;active&quot;&gt;
       &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover2&quot;&gt;
@@ -324,6 +2109,88 @@
       &lt;/p&gt;
       &lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
           
        
           
@@ -950,6 +2817,8 @@
        
           
        
+          
+       
       &lt;/div&gt;
       &lt;p&gt;
       Clarrissa also lacked confidence when it came to writing up contracts for her clients. So we created  contract helper to take the stress out of writing a scope of work.&lt;br /&gt; &lt;br /&gt;Similar to the proposal studio, Contract Helper is comprised of a conversation style form that helps the user build their contract live in the preview zone, by answering a series of simple questions. &lt;br /&gt;&lt;br /&gt;Features include:&lt;/p&gt;
@@ -969,6 +2838,88 @@
       &lt;/ul&gt;
       &lt;div class=&quot;row&quot; style=&quot;margin-top: 50px;&quot;&gt;
       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
+          
+       
           
        
           
@@ -1613,6 +3564,8 @@
        
           
        
+          
+       
       &lt;/div&gt;
       &lt;hr style=&quot;border-top-color:#8d579c;&quot; /&gt;
       &lt;h4&gt;
@@ -1666,10 +3619,10 @@
 
 &lt;p&gt;I was surprised to know about this fact and wanted to do my research on the same as my Acadamic Project at Academy Xi. I used the &lt;strong&gt;Double Diamond&lt;/strong&gt; approach to obtain a solution for this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./img/Shared/DoubleDiamond.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Double Diamond&quot; loading=&quot;lazy&quot; /&gt;
-Click through the tabs below to see the details of each phase.&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&quot;./img/Shared/DoubleDiamond.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;Double Diamond&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Click through the tabs below to see the details of each phase. &lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;ul class=&quot;nav nav-tabs nav-justified nav-fill&quot;&gt;
   &lt;li class=&quot;active&quot;&gt;
     &lt;a data-toggle=&quot;tab&quot; href=&quot;#Discover1&quot;&gt;&lt;u&gt;Discover&lt;/u&gt;&lt;/a&gt;
@@ -2764,6 +4717,90 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
         
           
         
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
     &lt;p&gt;What did Chloes like?&lt;/p&gt;
     &lt;ul align=&quot;left&quot;&gt;
       &lt;li align=&quot;left&quot;&gt;
@@ -2833,82 +4870,6 @@ Click through the tabs below to see the details of each phase.&lt;/p&gt;
 
       
         <summary type="html">One in three Australians have gained weight during the pandemic!</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Sustain Health</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sustain Health" />
-      <published>2020-02-07T00:00:00+11:00</published>
-      <updated>2020-02-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/Sustain-Health</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;A user interface is like a Joke. If you have to explain it, it’s not that good.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;./img/Shared/wip.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="User Experience, User Interface" />
-      
-
-      
-
-      
-        <summary type="html">A user interface is like a Joke. If you have to explain it, it’s not that good.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Grouptag</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Grouptag" />
-      <published>2020-02-07T00:00:00+11:00</published>
-      <updated>2020-02-07T00:00:00+11:00</updated>
-      <id>http://localhost:4000/GroupTag</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;A user interface is like a Joke. If you have to explain it, it’s not that good.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&quot;./img/Shared/wip.png&quot; class=&quot;img-responsive&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="User Experience, User Interface" />
-      
-
-      
-
-      
-        <summary type="html">A user interface is like a Joke. If you have to explain it, it’s not that good.</summary>
       
 
       
