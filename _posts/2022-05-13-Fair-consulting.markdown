@@ -11,4 +11,4 @@ description:
 name: Fair Consulting
 ---
 
- <img src="./img/shared/wip.png" class="img-responsive img-centered" loading="lazy">
+ <img src="./img/Shared/wip.png" class="img-responsive img-centered" loading="lazy">
