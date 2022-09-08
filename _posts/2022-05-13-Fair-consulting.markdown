@@ -11,10 +11,9 @@ description:
 name: Fair Consulting
 ---
 <p>
-  <br>
   <b>Project 1</b>
   <br>
-  <br> I worked on a project that manufactures fertiliser chemical explosives, and mining services. The main objective of this project is to create a user-friendly shopping ordering experience through the organization`s website. In this project, I contributed my input in re-organising the existing design systems by grouping the figma frames into clusters, with dotted lines. <br>Firstly, I have taken a particular group of tickets and put them into boxes and colour-coded them into: <br>
+  <br> I worked on a project that manufactures fertiliser chemical explosives, and mining services. The main objective of this project is to create a user-friendly shopping ordering experience through the organization`s website. In this project, I contributed my input in re-organising the existing design systems by grouping the figma frames into clusters, with dotted lines. <br><br>Firstly, I have taken a particular group of tickets and put them into boxes and colour-coded them into:
 </p>
 <ul align="left">
   <li align="left">
@@ -25,7 +24,6 @@ name: Fair Consulting
   </li>
 </ul>
 <p>
-  <br>
   <br>Then I grouped the existing design files into groups, and placed dotted lines around them, and named them according to the flow followed. <br>
   <br>This was easy for the developers and other new team members who joined the team to understand the flow easily, thus ensuring a high-quality deliverable for the client. <br>
   <br>
